@@ -1,0 +1,1902 @@
+{
+  "TRUENORTHENERGYCORP_02_08_2007-EX-10.1-DEVELOPMENT AGREEMENT": {
+    "contract_id": "TRUENORTHENERGYCORP_02_08_2007-EX-10.1-DEVELOPMENT AGREEMENT",
+    "summary": "This development agreement between BP America Production Company and True North Energy Corp stipulates a 11.67% stake in an Initial Well located on the Contract Area, with the company bearing the cost of drilling. Additional wells can be drilled once BP's interest is achieved. Risks include potential disputes over ownership rights and costs exceeding anticipated levels.",
+    "termination_clause": "It is understood that a proportionate share of the cost of maintaining and operating the Plants, including depreciation or rental in lieu of depreciation and actual Third Party costs, whether on a cash fee basis or on a retained volume basis, will be allocated to the Parties on a 'throughput' basis (being that portion of such costs relating to the production volumes from the Initial Well or, if drilled, any Substitute Well or Additional Well, as each may bear to the total production volumes handled by the Plants, including any Third Party or BP volumes not produced from the Initial Well or, if drilled, any Substitute Well or Additional Well).",
+    "confidentiality_clause": "Not found",
+    "liability_clause": "FOR BP:\nBP America Production Company\n501 Westlake Park Boulevard\nHouston, Texas 77079\nAttention: Tuscaloosa Area Land Negotiator\nFax No.: (281) 366-4519",
+    "category": "Development",
+    "part": "Part_III",
+    "char_count": 43145,
+    "n_chunks": 7,
+    "summary_word_count": 56,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 4,
+        "clause_type": "termination_clause",
+        "extracted": "It is understood that a proportionate share of the cost of maintaining and operating the Plants, including depreciation or rental in lieu of depreciation and actual Third Party costs, whether on a cash fee basis or on a retained volume basis, will be allocated to the Parties on a 'throughput' basis (being that portion of such costs relating to the production volumes from the Initial Well or, if drilled, any Substitute Well or Additional Well, as each may bear to the total production volumes handled by the Plants, including any Third Party or BP volumes not produced from the Initial Well or, if drilled, any Substitute Well or Additional Well)."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "termination_clause",
+        "extracted": "If BP proposes to drill a Substitute Well and Company timely elects to participate in such Substitute Well in accordance with Section 3.2, such Substitute Well shall be treated for all purposes herein as the Initial Well (including, but not limited to, Company's obligation to pay 11.67% of the Drilling Costs for such Substitute Well), except that the Objective Zone for such Substitute Well shall be governed by the AFE for such Substitute Well."
+      },
+      {
+        "chunk_index": 5,
+        "clause_type": "liability_clause",
+        "extracted": "FOR BP:\nBP America Production Company\n501 Westlake Park Boulevard\nHouston, Texas 77079\nAttention: Tuscaloosa Area Land Negotiator\nFax No.: (281) 366-4519"
+      },
+      {
+        "chunk_index": 4,
+        "clause_type": "liability_clause",
+        "extracted": "Nothing herein shall be construed to impart, transfer or convey any ownership interest in the Plants to Company."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "BLUEHILLSBANCORP,INC_05_20_2014-EX-1.1-AGENCY AGREEMENT": {
+    "contract_id": "BLUEHILLSBANCORP,INC_05_20_2014-EX-1.1-AGENCY AGREEMENT",
+    "summary": "### Summary\n\nThis contract outlines an agreement between Blue Hills Bancorp, Inc., Hyde Park Bancorp MHC, Hyde Park Bancorp Inc., and Blue Hills Bank. The purpose is to convert the current mutual holding company form of organization into a stock holding company through a subscription offering. Key obligations include:\n\n- Offering up to 24,150,000 shares (subject to increase) at $10 per share.\n- Subscription for these shares will be from eligible account holders, tax-qualified employee benefit plans, and certain employees, officers, directors, trustees, and corporators of the bank, Mid-Tier, and MHC who do not have higher priority. \n- Shares not subscribed in the subscription offering can be offered to members of the general public through a syndicated community offering or underwritten offering with Keefe, Bruyette & Woods acting as sole bookrunner.\n\nNotable risks include:\n- The possibility that shares may not be subscribed for.\n- The potential for market volatility affecting share prices and investor interest.",
+    "termination_clause": "(c) If any of the conditions specified in Section 8 shall not have been fulfilled when and as required by this Agreement, unless waived in writing, or by the Closing Date, this Agreement and all of the Agent's obligations hereunder may be cancelled by the Agent by notifying the Holding Company of such cancellation in writing or by electronic mail at any time at or prior to the Closing Date, and any such cancellation shall be without liability of any party to any other party except as otherwise provided in Sections 2(a), 2(e), 7, 9 and 10 hereof.",
+    "confidentiality_clause": "Not found",
+    "liability_clause": "If an indemnifying party assumes the defense of such action, the indemnifying parties shall not be liable for any fees and expenses of counsel for the indemnified parties incurred thereafter in connection with such action, proceeding or claim, other than reasonable costs of investigation.",
+    "category": "Agency_Agreements",
+    "part": "Part_III",
+    "char_count": 130280,
+    "n_chunks": 20,
+    "summary_word_count": 156,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 18,
+        "clause_type": "termination_clause",
+        "extracted": "(c) If any of the conditions specified in Section 8 shall not have been fulfilled when and as required by this Agreement, unless waived in writing, or by the Closing Date, this Agreement and all of the Agent's obligations hereunder may be cancelled by the Agent by notifying the Holding Company of such cancellation in writing or by electronic mail at any time at or prior to the Closing Date, and any such cancellation shall be without liability of any party to any other party except as otherwise provided in Sections 2(a), 2(e), 7, 9 and 10 hereof."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "termination_clause",
+        "extracted": ""
+      },
+      {
+        "chunk_index": 17,
+        "clause_type": "liability_clause",
+        "extracted": "If an indemnifying party assumes the defense of such action, the indemnifying parties shall not be liable for any fees and expenses of counsel for the indemnified parties incurred thereafter in connection with such action, proceeding or claim, other than reasonable costs of investigation."
+      },
+      {
+        "chunk_index": 16,
+        "clause_type": "liability_clause",
+        "extracted": ""
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement": {
+    "contract_id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement",
+    "summary": "This contract establishes a framework agreement for purchasing products from a seller to the buyer/End-User through an intermediary (Yichangtai or Leheyuan). The essential obligations include accepting orders within three working days, modifying orders with written notice and consent, and ensuring proper packaging. Notable risks involve potential damage due to improper packing, inadequate protective measures, and compliance with China's Entry-Exit Inspection and Quarantine Bureau requirements for goods export.",
+    "termination_clause": "If the Sellers fail to make delivery ten weeks later than the time of shipment stipulated in the Contract, the Buyers have the right to cancel the contract and the Sellers, in spite of the cancellation, shall still pay the aforesaid penalty to the Buyers without delay, the seller should refund the money received and pay the 30% of the total goods price of the penalty",
+    "confidentiality_clause": "The Sellers, in accordance with the Buyers' claim, shall be responsible for the immediate elimination of the defect(s), complete or partial replacement of the commodity or shall devaluate the commodity according to the state of defect(s). Where necessary, the Buyers shall be at liberty to eliminate the defect(s) themselves at the Sellers' expenses.",
+    "liability_clause": "Seller's note, only the buyer entrust the entrusted party issued orders, the product delivery and payment has the force of law.",
+    "category": "Supply",
+    "part": "Part_I",
+    "char_count": 11203,
+    "n_chunks": 2,
+    "summary_word_count": 67,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 1,
+        "clause_type": "termination_clause",
+        "extracted": "If the Sellers fail to make delivery ten weeks later than the time of shipment stipulated in the Contract, the Buyers have the right to cancel the contract and the Sellers, in spite of the cancellation, shall still pay the aforesaid penalty to the Buyers without delay, the seller should refund the money received and pay the 30% of the total goods price of the penalty"
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "termination_clause",
+        "extracted": "If the seller puts forward amendments or not accept orders, the seller shall be in the form of a written notice to entrusted party, entrusted party accept the modified by written consent, the modified orders to be taken effect."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "confidentiality_clause",
+        "extracted": "The Sellers, in accordance with the Buyers' claim, shall be responsible for the immediate elimination of the defect(s), complete or partial replacement of the commodity or shall devaluate the commodity according to the state of defect(s). Where necessary, the Buyers shall be at liberty to eliminate the defect(s) themselves at the Sellers' expenses."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "liability_clause",
+        "extracted": "Seller's note, only the buyer entrust the entrusted party issued orders, the product delivery and payment has the force of law."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "liability_clause",
+        "extracted": "LIMITATION OF LIABILITY"
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "DIVERSINETCORP_03_01_2012-EX-4-RESELLER AGREEMENT": {
+    "contract_id": "DIVERSINETCORP_03_01_2012-EX-4-RESELLER AGREEMENT",
+    "summary": "This contract outlines a reseller agreement between Diversinet Corp. and 2205925 Ontario Limited for marketing and selling certain of Diversinet's products within Canada. The key obligations include the exclusive right to market and sell the specified products in Canada, with potential rights to expand outside of Canada upon prior written consent from Diversinet. Reseller must pay an annual minimum commitment (AMC) and has a non-exclusive right to contract internationally except for the United States. Reseller is also entitled to certain discounts for sales in the US.",
+    "termination_clause": "Termination of the AMC by Reseller shall eliminate any exclusivity of the Reseller in the Territory.",
+    "confidentiality_clause": "Reseller agrees that all software, documentation and materials provided with the Products and all information contained therein is owned by Diversinet.",
+    "liability_clause": "(d) NOTWITHSTANDING THE ABOVE, IN NO EVENT SHALL DIVERSINET'S LIABILITY RELATING TO THIS AGREEMENT (OR THE BUNDLED PRODUCT) EXCEED ONE HUNDRED PERCENT (100%) OF THE AGGREGATE AMOUNT OF THE LICENSE FEES, ROYALTIES AND SUPPORT FEES PAID BY RESELLER IN THE TWELVE (12) MONTH PERIOD PRECEDING THE EVENT OR CIRCUMSTANCE GIVING RISE TO THE ALLEGED LIABILITY ON THE PART OF DIVERSINET.",
+    "category": "Reseller",
+    "part": "Part_III",
+    "char_count": 74216,
+    "n_chunks": 12,
+    "summary_word_count": 86,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 0,
+        "clause_type": "termination_clause",
+        "extracted": ""
+      },
+      {
+        "chunk_index": 8,
+        "clause_type": "termination_clause",
+        "extracted": "Termination of the AMC by Reseller shall eliminate any exclusivity of the Reseller in the Territory."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Reseller agrees that all software, documentation and materials provided with the Products and all information contained therein is owned by Diversinet."
+      },
+      {
+        "chunk_index": 10,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Definitions, Interpretation"
+      },
+      {
+        "chunk_index": 5,
+        "clause_type": "liability_clause",
+        "extracted": "(d) NOTWITHSTANDING THE ABOVE, IN NO EVENT SHALL DIVERSINET'S LIABILITY RELATING TO THIS AGREEMENT (OR THE BUNDLED PRODUCT) EXCEED ONE HUNDRED PERCENT (100%) OF THE AGGREGATE AMOUNT OF THE LICENSE FEES, ROYALTIES AND SUPPORT FEES PAID BY RESELLER IN THE TWELVE (12) MONTH PERIOD PRECEDING THE EVENT OR CIRCUMSTANCE GIVING RISE TO THE ALLEGED LIABILITY ON THE PART OF DIVERSINET."
+      },
+      {
+        "chunk_index": 4,
+        "clause_type": "liability_clause",
+        "extracted": "Neither Diversinet, nor its subsidiaries, nor their respective directors, officers, employees, agents, assignees, co-developers, servants and contractors, nor the Reseller has any right to make any other representation, warranty or promise of any kind with respect to any of the Products."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "XENCORINC_10_25_2013-EX-10.24-COLLABORATION AGREEMENT (3)": {
+    "contract_id": "XENCORINC_10_25_2013-EX-10.24-COLLABORATION AGREEMENT (3)",
+    "summary": "This Collaboration Agreement between Xencor Inc. and Boehringer Ingelheim International GmbH outlines the terms of a research collaboration aimed at developing new pharmaceutical products. Key points include:\n- The effective date is February 10, 2012.\n- Both parties agree to cooperate in project development under cGMP guidelines.\n- Responsibilities are divided between Xencor and BII for personnel, conduct of projects, and deliverables.\n- Payment terms cover project fees, technology access fee, and VAT. \n- Ownership and use of project data is outlined with specific provisions regarding process usage and negotiation rights.\nThe agreement emphasizes the importance of confidentiality and adherence to cGMP standards in their operations.",
+    "termination_clause": "10.2.1If it is apparent to either Party at any stage of the Project that it will not be possible to carry out the Project for scientific, technical or business reasons, such Party may terminate this Agreement upon one hundred eighty (180) days prior written notice to the other Party.",
+    "confidentiality_clause": "Each Party shall ensure that all of such Party's (or its Affiliated Company's) employees or contractors acting on its behalf pursuant to this Agreement are and will be obligated under a binding written agreement or by law to assign to such Party all inventions and rights on the inventions",
+    "liability_clause": "For the avoidance of doubt, all BII liability or indemnification obligation that might result from representations and the warranties under this Section 6 are always subject to the limitations set forth in Section 7.4 of this Agreement.",
+    "category": "Collaboration",
+    "part": "Part_II",
+    "char_count": 117507,
+    "n_chunks": 21,
+    "summary_word_count": 106,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 16,
+        "clause_type": "termination_clause",
+        "extracted": "10.2.1If it is apparent to either Party at any stage of the Project that it will not be possible to carry out the Project for scientific, technical or business reasons, such Party may terminate this Agreement upon one hundred eighty (180) days prior written notice to the other Party."
+      },
+      {
+        "chunk_index": 17,
+        "clause_type": "termination_clause",
+        "extracted": "The use of the Process is subject to Sections 5.2.3, 5.2.4 and 5.2.5."
+      },
+      {
+        "chunk_index": 15,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Receiving Party undertakes to protect the Disclosing Party's Confidential Information and Know How against unauthorized access by third parties using all commercially reasonable efforts."
+      },
+      {
+        "chunk_index": 14,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Each Party shall ensure that all of such Party's (or its Affiliated Company's) employees or contractors acting on its behalf pursuant to this Agreement are and will be obligated under a binding written agreement or by law to assign to such Party all inventions and rights on the inventions"
+      },
+      {
+        "chunk_index": 13,
+        "clause_type": "liability_clause",
+        "extracted": "7.3Indemnification"
+      },
+      {
+        "chunk_index": 12,
+        "clause_type": "liability_clause",
+        "extracted": "For the avoidance of doubt, all BII liability or indemnification obligation that might result from representations and the warranties under this Section 6 are always subject to the limitations set forth in Section 7.4 of this Agreement."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "UsioInc_20040428_SB-2_EX-10.11_1723988_EX-10.11_Affiliate Agreement 2": {
+    "contract_id": "UsioInc_20040428_SB-2_EX-10.11_1723988_EX-10.11_Affiliate Agreement 2",
+    "summary": "This contract is between NETWORK 1 FINANCIAL CORPORATION and PAYMENT DATA SYSTEMS, INC., establishing an affiliate office agreement. The key obligations include:\n- Network 1 agrees to market Services through Affiliate's contractors.\n- Affiliate must locate individuals willing to act as network contractors for both Network 1 and its subsidiaries.\n- Network 1 consents to waive exclusivity requirements with specific merchants that are declined by Network 1, provided they can be processed by a designated B bank source.\n- Affiliate discloses background information on contractors to Network 1.\nNotable risks include:\n- The exclusivity requirement for certain merchants may not apply if Network 1 is unable to process them or if the merchant is declined by another provider.\n- There are no specific risks mentioned in the summary.",
+    "termination_clause": "If during the term of this Agreement for any renewal of this Agreement (the 'Right of First Refusal Period'), Affiliate shall receive (i) any Bona Fide Offer to purchase the revenue due Affiliate under this Agreement or Affiliate's company through an asset purchase or merger (in which case Network 1 shall be subordinate to the Checkfree first refusal right), or (ii) a Bona Fide Offer to acquire or merge with or into Affiliate (in which case Network 1 shall be subordinate to the Checkfree first refusal right), Affiliate shall immediately give written notice (the 'Offer Notice') to Network 1 of the terms and conditions of the Bona Fide Offer, including without limitation the price.",
+    "confidentiality_clause": "Not found",
+    "liability_clause": "CLIENT shall have the right to withdraw ('Transfer') Merchants from the Merchant Program, provided (i) that CLIENT shall have given 120 days written notice to NET1, (ii) that Affiliate is not in, and has not breached any terms of this Agreement, (iii) NW1 has waived its rights in Section 2.03 (a) [RETENTION OF CONTRACTORS] (iv) 18 months have lapsed under this Agreement and (v) Affiliate pays the applicable Exit Fee as defined in section 7.6 (c) below.",
+    "category": "Affiliate_Agreements",
+    "part": "Part_I",
+    "char_count": 23947,
+    "n_chunks": 4,
+    "summary_word_count": 128,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 2,
+        "clause_type": "termination_clause",
+        "extracted": "5.02 TERMINATION."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "termination_clause",
+        "extracted": "If during the term of this Agreement for any renewal of this Agreement (the 'Right of First Refusal Period'), Affiliate shall receive (i) any Bona Fide Offer to purchase the revenue due Affiliate under this Agreement or Affiliate's company through an asset purchase or merger (in which case Network 1 shall be subordinate to the Checkfree first refusal right), or (ii) a Bona Fide Offer to acquire or merge with or into Affiliate (in which case Network 1 shall be subordinate to the Checkfree first refusal right), Affiliate shall immediately give written notice (the 'Offer Notice') to Network 1 of the terms and conditions of the Bona Fide Offer, including without limitation the price."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "liability_clause",
+        "extracted": "ARTICLE VII [INDEMNIFICATION]"
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "liability_clause",
+        "extracted": "CLIENT shall have the right to withdraw ('Transfer') Merchants from the Merchant Program, provided (i) that CLIENT shall have given 120 days written notice to NET1, (ii) that Affiliate is not in, and has not breached any terms of this Agreement, (iii) NW1 has waived its rights in Section 2.03 (a) [RETENTION OF CONTRACTORS] (iv) 18 months have lapsed under this Agreement and (v) Affiliate pays the applicable Exit Fee as defined in section 7.6 (c) below."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT": {
+    "contract_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT",
+    "summary": "This contract details the licensing and hosting agreement between Corio Inc. and Commerce One, focusing on software licensing, customer support, marketing promotion, and financial considerations. Key obligations include providing software access through Corio's servers, offering tiered support services, and sharing revenue from certain types of sales. Risks noted involve potential changes in the definition of \"SOFTWARE USER\" or adjustments to terms due to future agreements between Commerce One and its clients.",
+    "termination_clause": "If either party materially breaches any term or condition of this Agreement and fails to cure such breach within-thirty (30) days after receiving written notice of the breach, the nonbreaching party may terminate this Agreement on written notice at any time following the end of such-thirty (30) day period.",
+    "confidentiality_clause": "Each party hereby agrees that it shall not use any Confidential Information received from the other party other than as expressly permitted under the terms of a non-disclosure agreement to be concurrently executed with this Agreement.",
+    "liability_clause": "Corio shall be responsible for training its Customers regarding proper use of the Software and MarketSite.net Service.",
+    "category": "Hosting",
+    "part": "Part_III",
+    "char_count": 53297,
+    "n_chunks": 8,
+    "summary_word_count": 71,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 4,
+        "clause_type": "termination_clause",
+        "extracted": "If either party materially breaches any term or condition of this Agreement and fails to cure such breach within-thirty (30) days after receiving written notice of the breach, the nonbreaching party may terminate this Agreement on written notice at any time following the end of such-thirty (30) day period."
+      },
+      {
+        "chunk_index": 2,
+        "clause_type": "termination_clause",
+        "extracted": "If after the third Acceptance Test Corio does not accept the Software, Corio may, at its sole option, elect to (i) repeat the Acceptance Test or (ii) terminate the Agreement and receive a refund of any fees paid to Commerce One as of such date."
+      },
+      {
+        "chunk_index": 4,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Each party hereby agrees that it shall not use any Confidential Information received from the other party other than as expressly permitted under the terms of a non-disclosure agreement to be concurrently executed with this Agreement."
+      },
+      {
+        "chunk_index": 5,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Corio shall not distribute, sell or sublicense the Source Code."
+      },
+      {
+        "chunk_index": 4,
+        "clause_type": "liability_clause",
+        "extracted": "LIMITATION OF LIABILITY."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "liability_clause",
+        "extracted": "Corio shall be responsible for training its Customers regarding proper use of the Software and MarketSite.net Service."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement": {
+    "contract_id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement",
+    "summary": "This Website Design, Development, and Hosting Agreement (\"Agreement\") is between Natalija Tunevic (Client) and Mitchell Vitalis (Company). The client agrees to pay $5,000 for a website design and development project. Any changes require written acceptance from Company. Client must provide written content in specified formats; Company will not proofread or correct errors unless paid extra. Client acknowledges the due dates are subject to delay if materials are late or approvals delayed.",
+    "termination_clause": "Not found",
+    "confidentiality_clause": "Not found",
+    "liability_clause": "Not found",
+    "category": "Hosting",
+    "part": "Part_I",
+    "char_count": 6190,
+    "n_chunks": 1,
+    "summary_word_count": 71,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 0,
+        "clause_type": "liability_clause",
+        "extracted": ""
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement2": {
+    "contract_id": "BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement2",
+    "summary": "This amendment to the Manufacturing Agreement between Heritage and Premier modifies the minimum annual order volume requirement for Premier's purchases. It obligates Premier to purchase a specified quantity of units annually from July 1, 2018 through June 30, 2019, with additional volumes required in subsequent years contingent on commercial production approval by January 1, 2019. The amendment maintains all other terms and conditions unchanged.",
+    "termination_clause": "Not found",
+    "confidentiality_clause": "Not found",
+    "liability_clause": "Not found",
+    "category": "Manufacturing",
+    "part": "Part_I",
+    "char_count": 2264,
+    "n_chunks": 1,
+    "summary_word_count": 64,
+    "summary_retried": true,
+    "chunk_results": [],
+    "chunk_summaries": []
+  },
+  "PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement": {
+    "contract_id": "PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement",
+    "summary": "This contract is an endorsement agreement between ABG-Shaq LLC (the Celebrity) and Papa John's Marketing Fund Inc., a Kentucky corporation (PJMF), and Papa John's International, Inc. (PJI). The purpose of the agreement is to allow PJM to use the Celebrity's name, image, and services in connection with PJI's advertising, promotion, and sale of products. The key obligations include granting rights to use the Celebrity's Personality Rights for a contract year and subsequent twelve-month periods. Notable risks include potential legal challenges over the interpretation of \"Approved\" by ABG regarding the Celebrity's likeness and image usage.",
+    "termination_clause": "If this Agreement is terminated by PAPA JOHN'S for any of the reasons set forth in Section 7.A. above, then CELEBRITY shall be entitled to immediately vest in the pro-rata share of the respective number of RSUs for the then-current Contract Year as set forth in Section 5.B. above, determined by multiplying the number of RSUs for such Contract Year by a fraction, the numerator of which is the number of days elapsed in such Contract Year and the denominator of which is the total number of days in such Contract Year, and such RSUs shall vest immediately as of the effective date of termination.",
+    "confidentiality_clause": "Nevertheless, after the parties have announced the association between CELEBRITY and PAPA JOHN's or the association otherwise becomes public, each party may respond, discuss and comment in a favorable and positive manner that CELEBRITY is associated with PAPA JOHN'S during any public events and/or interviews, subject to the requirements herein.",
+    "liability_clause": "PAPA JOHN'S indemnification obligations hereunder shall not be limited by the amount of insurance requirements hereunder.",
+    "category": "Endorsement",
+    "part": "Part_I",
+    "char_count": 66661,
+    "n_chunks": 11,
+    "summary_word_count": 94,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 7,
+        "clause_type": "termination_clause",
+        "extracted": "If this Agreement is terminated by PAPA JOHN'S for any of the reasons provided in Section 7.A., then ABG shall be entitled to the pro-rata share of the respective Cash Payment for the then-current Contract Year as set forth in Section 5.A."
+      },
+      {
+        "chunk_index": 8,
+        "clause_type": "termination_clause",
+        "extracted": "If this Agreement is terminated by PAPA JOHN'S for any of the reasons set forth in Section 7.A. above, then CELEBRITY shall be entitled to immediately vest in the pro-rata share of the respective number of RSUs for the then-current Contract Year as set forth in Section 5.B. above, determined by multiplying the number of RSUs for such Contract Year by a fraction, the numerator of which is the number of days elapsed in such Contract Year and the denominator of which is the total number of days in such Contract Year, and such RSUs shall vest immediately as of the effective date of termination."
+      },
+      {
+        "chunk_index": 9,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Nevertheless, after the parties have announced the association between CELEBRITY and PAPA JOHN's or the association otherwise becomes public, each party may respond, discuss and comment in a favorable and positive manner that CELEBRITY is associated with PAPA JOHN'S during any public events and/or interviews, subject to the requirements herein."
+      },
+      {
+        "chunk_index": 8,
+        "clause_type": "liability_clause",
+        "extracted": "ABG's Indemnification Obligations"
+      },
+      {
+        "chunk_index": 9,
+        "clause_type": "liability_clause",
+        "extracted": "PAPA JOHN'S indemnification obligations hereunder shall not be limited by the amount of insurance requirements hereunder."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "IPAYMENT,INC_05_14_2007-EX-10.1-SPONSORSHIP AGREEMENT": {
+    "contract_id": "IPAYMENT,INC_05_14_2007-EX-10.1-SPONSORSHIP AGREEMENT",
+    "summary": "This Sponsorship Agreement between iPayment, Inc., First Data Merchant Services Corporation, and Wells Fargo Bank, N.A. outlines the sponsorship of a Merchants processing Program. It stipulates that as part of their services to ISO, FDMS, and Bank, they will provide support for Merchants accepting Visa and MasterCard cards. The agreement also mentions the termination of previous agreements with Petroleum Card Services and Concord Transaction Services, and incorporates related services into this new document. The effective date is January 29, 2007.",
+    "termination_clause": "SERVICERS may terminate this Agreement prior to its expiration for cause upon prior written notice to ISO as follows:\n(a) Upon a Material breach of any representation, warranty or covenant in this Agreement by SERVICERS which is not cured by\nSERVICERS within sixty (60) days of receipt of written notice from ISO; provided however, that if SERVICES are attempting in good faith to cure such breach within said sixty (60) day cure period but the nature of the breach prevents a cure within sixty (60) days, then\nSERVICES shall be allotted an additional number of days to cure, provided the total number of days of the cure period shall be no greater than one hundred twenty (120) days;\n(b) Upon any failure by SERVICERS to pay any amount due under this Agreement which does not give rise to the right to terminate under any other provision of this Agreement within five (5) Business Days after written notice to SERVICERS of its failure to pay the amount;",
+    "confidentiality_clause": "ISO agrees to never contest the ownership of these marks and Visa and/or MasterCard may at any time immediately and without advance notice prohibit ISO from using their respective marks.",
+    "liability_clause": "ISO shall indemnify, defend, protect, and hold SERVICERS, their Affiliates, and their respective officers, directors,\nemployees, attorneys, and permitted assigns, harmless from and against any Losses and credit/fraud losses arising directly from:\na) Any failure by ISO to comply with any Material term or condition of this Agreement applicable to ISO, or the failure of any warranty or representations made by ISO in this Agreement to be true and correct;\nb) Any claim for which ISO has otherwise agreed herein to pay or indemnify SERVICERS;\nc) Credit or fraud losses, regardless of whether SERVICERS performed any underwriting, credit review, periodic review or fraud monitoring reviews on their own behalf;\nd) Any negligence, misrepresentation or willful misconduct on the part of ISO or any of its employees, agents, Other MSP's or IC's related to this Agreement; and\n(e) Any claim by any third party related to this Agreement of a Merchant in the Merchant Portfolio that ISO's Intellectual Property violates or infringes any proprietary right of such third party, without any limitation of liability whatsoever.",
+    "category": "Sponsorship",
+    "part": "Part_III",
+    "char_count": 93731,
+    "n_chunks": 15,
+    "summary_word_count": 80,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 9,
+        "clause_type": "termination_clause",
+        "extracted": "SERVICERS may terminate this Agreement prior to its expiration for cause upon prior written notice to ISO as follows:\n(a) Upon a Material breach of any representation, warranty or covenant in this Agreement by SERVICERS which is not cured by\nSERVICERS within sixty (60) days of receipt of written notice from ISO; provided however, that if SERVICES are attempting in good faith to cure such breach within said sixty (60) day cure period but the nature of the breach prevents a cure within sixty (60) days, then\nSERVICES shall be allotted an additional number of days to cure, provided the total number of days of the cure period shall be no greater than one hundred twenty (120) days;\n(b) Upon any failure by SERVICERS to pay any amount due under this Agreement which does not give rise to the right to terminate under any other provision of this Agreement within five (5) Business Days after written notice to SERVICERS of its failure to pay the amount;"
+      },
+      {
+        "chunk_index": 10,
+        "clause_type": "termination_clause",
+        "extracted": "10.5 Termination Reserve Account."
+      },
+      {
+        "chunk_index": 7,
+        "clause_type": "confidentiality_clause",
+        "extracted": "ISO agrees to never contest the ownership of these marks and Visa and/or MasterCard may at any time immediately and without advance notice prohibit ISO from using their respective marks."
+      },
+      {
+        "chunk_index": 8,
+        "clause_type": "confidentiality_clause",
+        "extracted": "9.1 Confidential Information"
+      },
+      {
+        "chunk_index": 10,
+        "clause_type": "liability_clause",
+        "extracted": "ISO shall indemnify, defend, protect, and hold SERVICERS, their Affiliates, and their respective officers, directors,\nemployees, attorneys, and permitted assigns, harmless from and against any Losses and credit/fraud losses arising directly from:\na) Any failure by ISO to comply with any Material term or condition of this Agreement applicable to ISO, or the failure of any warranty or representations made by ISO in this Agreement to be true and correct;\nb) Any claim for which ISO has otherwise agreed herein to pay or indemnify SERVICERS;\nc) Credit or fraud losses, regardless of whether SERVICERS performed any underwriting, credit review, periodic review or fraud monitoring reviews on their own behalf;\nd) Any negligence, misrepresentation or willful misconduct on the part of ISO or any of its employees, agents, Other MSP's or IC's related to this Agreement; and\n(e) Any claim by any third party related to this Agreement of a Merchant in the Merchant Portfolio that ISO's Intellectual Property violates or infringes any proprietary right of such third party, without any limitation of liability whatsoever."
+      },
+      {
+        "chunk_index": 11,
+        "clause_type": "liability_clause",
+        "extracted": "(c) Notwithstanding anything in this Agreement to the contrary, the cumulative liability of each of SERVICERS and ISO for all Losses, claims, suits, controversies, breaches or damages arising out of or related to this Agreement regardless of the form of action or legal theory relating to events in any one Processing Year shall not exceed [***] [***] times the amount of clearing/sponsorship fees paid to SERVICERS by ISO pursuant to this Agreement during the immediately preceding [***] [***] full months; provided, however, that this limitation shall not apply to either party's obligation to indemnify the other for credit/fraud losses or Losses arising from or related to the indemnifying party's (or its agents, representatives, Merchants, Other MSP's or IC's) failure to comply with Rules."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement": {
+    "contract_id": "HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement",
+    "summary": "This TRADEMARK LICENSE AGREEMENT (\"Agreement\") between Hertz Investment Group LLC and Hertz Group Realty Trust Inc. outlines a licensing arrangement for the use of a trademark in connection with real estate investments. The key points include:\n\n- Licensor (Hertz Investment Group) grants a non-exclusive, royalty-free license to Licensee (Hertz Group Realty Trust Inc.) to use the \"H\" mark as part of their corporate name and identifying mark.\n- The agreement is for a term that begins on September 1st, 2019.\n- Licensor retains ownership of all rights in the trademark, but Licensee can use it subject to the terms set forth in the agreement.\n- No other party has any right or interest in the trademark beyond what is explicitly stated in this agreement.\n\nThe risks include potential legal challenges if there are issues with trademark infringement or dilution.",
+    "termination_clause": "2.9",
+    "confidentiality_clause": "Not found",
+    "liability_clause": "4.1 Indemnification.",
+    "category": "License_Agreements",
+    "part": "Part_I",
+    "char_count": 13575,
+    "n_chunks": 3,
+    "summary_word_count": 139,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 0,
+        "clause_type": "termination_clause",
+        "extracted": "2.9"
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "liability_clause",
+        "extracted": "4.1 Indemnification."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "liability_clause",
+        "extracted": "2.9"
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "MRSFIELDSORIGINALCOOKIESINC_01_29_1998-EX-10-FRANCHISE AGREEMENT": {
+    "contract_id": "MRSFIELDSORIGINALCOOKIESINC_01_29_1998-EX-10-FRANCHISE AGREEMENT",
+    "summary": "This contract outlines the terms and conditions for a franchise agreement, including the grant of rights to operate under a brand name, fees for initial and renewal franchises, obligations regarding trademarks and location selection, development of units, and payment arrangements. Key risks include potential disputes over trademark usage and liability limits on the franchisor's responsibility. The franchisee must pay upfront fees, deferrable payments, royalties, advertising fund contributions, and renewals, with late fees and interest applicable. Risks also involve compliance with corporate name restrictions and termination rights for either party.",
+    "termination_clause": "If Franchisee refuses to comply with the terms of this Section 20 after Pretzel Time requests compliance, Pretzel Time shall have the right to enter upon Franchisee's premises without being deemed guilty of trespassing or any other offense, and make or cause to be made such changes at Franchisee's expense, which Franchisee agrees to pay upon demand.",
+    "confidentiality_clause": "Franchisee acknowledges and agrees that any action or inaction by any third party which is not an Affiliate of Pretzel Time shall not be attributable to or constitute negligence of Pretzel Time.",
+    "liability_clause": "Franchisee further agrees that the purchase price shall be further reduced by ten percent (10%) per month for each subsequent month Franchisee fails to act diligently to consummate this transaction.",
+    "category": "Franchise",
+    "part": "Part_II",
+    "char_count": 222406,
+    "n_chunks": 36,
+    "summary_word_count": 89,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 27,
+        "clause_type": "termination_clause",
+        "extracted": "If Franchisee refuses to comply with the terms of this Section 20 after Pretzel Time requests compliance, Pretzel Time shall have the right to enter upon Franchisee's premises without being deemed guilty of trespassing or any other offense, and make or cause to be made such changes at Franchisee's expense, which Franchisee agrees to pay upon demand."
+      },
+      {
+        "chunk_index": 28,
+        "clause_type": "termination_clause",
+        "extracted": "Franchisee and its Owners acknowledge that the covenant not to compete is fair and reasonable, and will not impose any undue hardship, since the Franchisee (and its Owners) has other considerable skills, experience and education which will afford him the opportunity to derive income from other endeavors."
+      },
+      {
+        "chunk_index": 30,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Franchisee acknowledges and agrees that any action or inaction by any third party which is not an Affiliate of Pretzel Time shall not be attributable to or constitute negligence of Pretzel Time."
+      },
+      {
+        "chunk_index": 27,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Franchisee agrees to return all materials and confidential information loaned to Franchisee, including, without limitation, all Operations Manuals and Training Manuals and videos."
+      },
+      {
+        "chunk_index": 29,
+        "clause_type": "liability_clause",
+        "extracted": "Franchisee further agrees that the purchase price shall be further reduced by ten percent (10%) per month for each subsequent month Franchisee fails to act diligently to consummate this transaction."
+      },
+      {
+        "chunk_index": 12,
+        "clause_type": "liability_clause",
+        "extracted": "LIMITATION ON LIABILITY."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT": {
+    "contract_id": "REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT",
+    "summary": "This Strategic Alliance Agreement between Yaskawa Electric Corporation (YEC) and Argo Medical Technologies Ltd. aims to leverage their complementary strengths in robotics and electrical engineering for healthcare equipment development. Key obligations include marketing ARGO's products by YEC, commercializing future YEC products, improving ARGO's products through collaboration on motion control and robotics expertise, enhancing product quality, and defining roles in joint research and development. Notable risks involve market competition, technological challenges, and the need to manage expectations effectively between two companies with different business models.",
+    "termination_clause": "Either party may terminate this Agreement by giving written notice of termination to the other party, which termination will be effective immediately upon such notice, if the other party defaults in the performance of any of its material obligations provided for in this Agreement and fails to cure such default within sixty (60) days after receipt of notice from the other party of such default, unless a plan for remedying such default has been proposed by the defaulting party and accepted by the non-defaulting party within such period.",
+    "confidentiality_clause": "On or prior to the execution of this Agreement, both parties shall sign a new Confidentiality and Non-Disclosure Agreement (hereinafter the \"New NDA\") and both parties shall comply with any terms and conditions stipulated in the New NDA with respect to handling of any confidential information disclosed by the other party hereunder.",
+    "liability_clause": "Not found",
+    "category": "Strategic_Alliance",
+    "part": "Part_III",
+    "char_count": 14795,
+    "n_chunks": 3,
+    "summary_word_count": 84,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 1,
+        "clause_type": "termination_clause",
+        "extracted": "Either party may terminate this Agreement by giving written notice of termination to the other party, which termination will be effective immediately upon such notice, if the other party defaults in the performance of any of its material obligations provided for in this Agreement and fails to cure such default within sixty (60) days after receipt of notice from the other party of such default, unless a plan for remedying such default has been proposed by the defaulting party and accepted by the non-defaulting party within such period."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "termination_clause",
+        "extracted": "Pursuant to the DA, and subject to its terms, ARGO agreed to appoint YEC as the exclusive distributor of its products in the Territory specified therein, and YEC agreed to market and distribute Argo's products in a professional manner."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "confidentiality_clause",
+        "extracted": "On or prior to the execution of this Agreement, both parties shall sign a new Confidentiality and Non-Disclosure Agreement (hereinafter the \"New NDA\") and both parties shall comply with any terms and conditions stipulated in the New NDA with respect to handling of any confidential information disclosed by the other party hereunder."
+      },
+      {
+        "chunk_index": 2,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Confidentiality and Non-Disclosure Agreement of August 25TH, 2011 by and between the parties and the Letter as of July 5th, 2013 shall be terminated by mutual consent of the parties hereto,"
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement": {
+    "contract_id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement",
+    "summary": "This contract is an anatomical line drawings licensing agreement between Emdeon Corporation and WebMD, Inc., covering the distribution of software products. The essential obligations include delivering specified Content in a mutually agreed format without additional charges for updates. Notable risks involve adhering to terms and conditions, potential costs from reformatting or integrating content into software, and WebMD's editorial oversight over the material.",
+    "termination_clause": "This section reflects an allocation of risk between the parties, is not a penalty, and shall be exclusive.",
+    "confidentiality_clause": "Confidentiality.",
+    "liability_clause": "WEBMD'S AGGREGATE LIABILITY FOR ALL DAMAGES, LOSSES AND CAUSES OF ACTION IN ANY WAY RELATED TO THIS AGREEMENT OR THE CONTENT, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, HOWEVER ARISING, UNDER ANY THEORY OF LIABILITY, INCLUDING JOINTLY OR SEVERALLY, SHALL NOT EXCEED FIFTY DOLLARS ($50).",
+    "category": "License_Agreements",
+    "part": "Part_I",
+    "char_count": 14545,
+    "n_chunks": 3,
+    "summary_word_count": 62,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 0,
+        "clause_type": "termination_clause",
+        "extracted": "WebMD does not provide medical or diagnostic advice or services."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "termination_clause",
+        "extracted": "This section reflects an allocation of risk between the parties, is not a penalty, and shall be exclusive."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Confidentiality."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "liability_clause",
+        "extracted": "WEBMD'S AGGREGATE LIABILITY FOR ALL DAMAGES, LOSSES AND CAUSES OF ACTION IN ANY WAY RELATED TO THIS AGREEMENT OR THE CONTENT, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, HOWEVER ARISING, UNDER ANY THEORY OF LIABILITY, INCLUDING JOINTLY OR SEVERALLY, SHALL NOT EXCEED FIFTY DOLLARS ($50)."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "VIRTUALSCOPICS,INC_11_12_2010-EX-10.1-STRATEGIC ALLIANCE AGREEMENT": {
+    "contract_id": "VIRTUALSCOPICS,INC_11_12_2010-EX-10.1-STRATEGIC ALLIANCE AGREEMENT",
+    "summary": "This Strategic Alliance Agreement between PPD Development LP and VirtualScopics Inc. outlines a two-year partnership for comprehensive clinical and medical imaging services, focusing on enhancing pharmaceutical development through faster decision-making. The agreement includes renewal terms and specific pricing structures for preferred services. Key obligations include providing high-quality imaging solutions that streamline drug development processes. Risks involve potential changes in service offerings or pricing without prior notice, affecting ongoing work orders.",
+    "termination_clause": "In the event Sponsor, with or without cause, terminates, or requests that PPD terminate, VS's involvement in a project, PPD shall have the right to immediately terminate the Work Order to which such project relates.",
+    "confidentiality_clause": "Confidential Information.",
+    "liability_clause": "VS shall remain responsible for the actions of all of the Subcontractors retained by VS.",
+    "category": "Strategic_Alliance",
+    "part": "Part_III",
+    "char_count": 45312,
+    "n_chunks": 7,
+    "summary_word_count": 70,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 4,
+        "clause_type": "termination_clause",
+        "extracted": "In the event Sponsor, with or without cause, terminates, or requests that PPD terminate, VS's involvement in a project, PPD shall have the right to immediately terminate the Work Order to which such project relates."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "termination_clause",
+        "extracted": "f."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Confidential Information."
+      },
+      {
+        "chunk_index": 4,
+        "clause_type": "liability_clause",
+        "extracted": "LIMITATION OF LIABILITY."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "liability_clause",
+        "extracted": "VS shall remain responsible for the actions of all of the Subcontractors retained by VS."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "ENTERPRISEPRODUCTSPARTNERSLP_07_08_1998-EX-10.3-TRANSPORTATION CONTRACT": {
+    "contract_id": "ENTERPRISEPRODUCTSPARTNERSLP_07_08_1998-EX-10.3-TRANSPORTATION CONTRACT",
+    "summary": "This agreement between Enterprise Transportation Company and Enterprise Products Operating L.P. specifies the terms for transporting chemicals or petroleum products across state lines, internationally, or within a single state. The shipper must deliver commodities to the carrier annually for shipments weighing at least ten thousand pounds, with compensation calculated according to the Schedule and Carrier's Contract Carriage Rules and Regulations. This agreement is valid from June 1, 1998, and automatically renews upon written notice of less than thirty days.",
+    "termination_clause": "A request for exclusive use in standby service shall be confirmed, in writing, to the Carrier, giving the date that such services shall commence.",
+    "confidentiality_clause": "Not found",
+    "liability_clause": "4. This contract shall be for a term of one year commencing on the date first above written; thereafter, it shall automatically continue until terminated by either party upon not less than thirty (30) days prior written notice to the other party.",
+    "category": "Transportation",
+    "part": "Part_III",
+    "char_count": 68811,
+    "n_chunks": 11,
+    "summary_word_count": 79,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 10,
+        "clause_type": "termination_clause",
+        "extracted": "A request for exclusive use in standby service shall be confirmed, in writing, to the Carrier, giving the date that such services shall commence."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "termination_clause",
+        "extracted": "7."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "liability_clause",
+        "extracted": "4. This contract shall be for a term of one year commencing on the date first above written; thereafter, it shall automatically continue until terminated by either party upon not less than thirty (30) days prior written notice to the other party."
+      },
+      {
+        "chunk_index": 6,
+        "clause_type": "liability_clause",
+        "extracted": "The first stop for partial unloading may not be made until all stops for partial loading have been completed and no further loading may take place after the first unloading stop."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "ADIANUTRITION,INC_04_01_2005-EX-10.D2-RESELLER AGREEMENT": {
+    "contract_id": "ADIANUTRITION,INC_04_01_2005-EX-10.D2-RESELLER AGREEMENT",
+    "summary": "This Reseller Agreement between PivX Corporation and Detto Technologies stipulates a non-exclusive license for distributing Qwik-Fix Pro across North America and internationally. Key responsibilities include granting exclusive rights to third parties, ensuring compliance with the current Enterprise License Agreement, and maintaining proper documentation. Risks encompass potential restrictions on reverse engineering and adherence to trademark usage guidelines.",
+    "termination_clause": "In the event that PivX shall be unable to meet Detto's requested ship dates, PivX shall advise Detto of the change in or actual delivery schedule.",
+    "confidentiality_clause": "Detto shall not distribute Qwik-Fix Pro to any Third Party unless the Third Party has accepted the terms of PivX's current License under penalty of perjury and in writing.",
+    "liability_clause": "4.3 LIMITATION OF LIABILITY",
+    "category": "Reseller",
+    "part": "Part_III",
+    "char_count": 25305,
+    "n_chunks": 5,
+    "summary_word_count": 56,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 3,
+        "clause_type": "termination_clause",
+        "extracted": "If a material breach is cured within a thirty (30) day cure period this Agreement shall remain in effect as if no material breach had occurred."
+      },
+      {
+        "chunk_index": 2,
+        "clause_type": "termination_clause",
+        "extracted": "In the event that PivX shall be unable to meet Detto's requested ship dates, PivX shall advise Detto of the change in or actual delivery schedule."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "confidentiality_clause",
+        "extracted": "6.1 CONFIDENTIALITY."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Detto shall not distribute Qwik-Fix Pro to any Third Party unless the Third Party has accepted the terms of PivX's current License under penalty of perjury and in writing."
+      },
+      {
+        "chunk_index": 2,
+        "clause_type": "liability_clause",
+        "extracted": "4.3 LIMITATION OF LIABILITY"
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "liability_clause",
+        "extracted": "6.3 NOTICES."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT": {
+    "contract_id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT",
+    "summary": "This Consulting Agreement outlines a non-exclusive agreement between Global Technologies, Ltd. (Company) and Timothy Cabrera (Consultant), where Consultant will provide various services to the Company as outlined in Section 3 of the contract. The key obligations include providing further development of the business plan for subsidiaries, seeking acquisition of potential products, negotiating acquisition or merger consideration, setting up meetings with acquisition candidates, and assisting with day-to-day tasks. The agreement is effective from January 2, 2020, for one year unless terminated by either party in bankruptcy, insolvency, or assignment for the benefit of creditors.",
+    "termination_clause": "Either Party shall have the right to terminate this Agreement with notice, and the effective date of termination shall be the date such notice is received (by mail, overnight delivery, or fax) by the terminated Party.",
+    "confidentiality_clause": "Consultant will not disclose Confidential Information to any third party without prior written consent from the Company.",
+    "liability_clause": "Consultant cannot guarantee results on behalf of the Company but shall use commercially reasonable efforts in providing the services listed above.",
+    "category": "Consulting_Agreements",
+    "part": "Part_II",
+    "char_count": 20775,
+    "n_chunks": 3,
+    "summary_word_count": 93,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 0,
+        "clause_type": "termination_clause",
+        "extracted": "Either Party shall have the right to terminate this Agreement with notice, and the effective date of termination shall be the date such notice is received (by mail, overnight delivery, or fax) by the terminated Party."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Confidentiality or non-disclosure clause"
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Consultant will not disclose Confidential Information to any third party without prior written consent from the Company."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "liability_clause",
+        "extracted": "INDEMNIFICATION."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "liability_clause",
+        "extracted": "Consultant cannot guarantee results on behalf of the Company but shall use commercially reasonable efforts in providing the services listed above."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_POWEROF": {
+    "contract_id": "FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_POWEROF",
+    "summary": "The contract establishes a limited power of attorney between Federated Investment Management Company and Federated Advisory Services Company. The Adviser appoints FASC to act as an agent on their behalf concerning certain agreements, contracts, and documents related to managing funds under the Adviser's supervision. This enables the execution of necessary actions without adding additional duties or liabilities beyond those stipulated in the Investment Advisory Contract.",
+    "termination_clause": "Nothing in this Limited Power of Attorney shall be construed (i) to be an amendment or modifications of, or supplement to, the Investment Advisory Contract, (ii) to amend, modify, limit or denigrate any duties, obligations or liabilities of the Adviser under the terms of the Investment Advisory Contract or (iii) exonerate, relieve or release the Adviser from any losses, obligations, penalties, actions, judgments and suits and other costs, expenses and disbursements of any kind or nature whatsoever which may be imposed on, incurred by or asserted against the Adviser (x) under the terms of the Investment Advisory Contract or (y) at law, or in equity, for the performance of its duties as the investment adviser or subadviser of any of the Funds.",
+    "confidentiality_clause": "Not found",
+    "liability_clause": "The Adviser hereby agrees to indemnify and save harmless FASC and its trustees, officers and employees (each of the foregoing an",
+    "category": "Service",
+    "part": "Part_II",
+    "char_count": 14351,
+    "n_chunks": 3,
+    "summary_word_count": 65,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 1,
+        "clause_type": "termination_clause",
+        "extracted": "This Limited Power of Attorney shall be revoked and terminated automatically upon the cancellation or termination of the Services Agreement or as to any Fund upon the cancellation or termination of the Adviser's Investment Advisory Contract for such Fund."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "termination_clause",
+        "extracted": "Nothing in this Limited Power of Attorney shall be construed (i) to be an amendment or modifications of, or supplement to, the Investment Advisory Contract, (ii) to amend, modify, limit or denigrate any duties, obligations or liabilities of the Adviser under the terms of the Investment Advisory Contract or (iii) exonerate, relieve or release the Adviser from any losses, obligations, penalties, actions, judgments and suits and other costs, expenses and disbursements of any kind or nature whatsoever which may be imposed on, incurred by or asserted against the Adviser (x) under the terms of the Investment Advisory Contract or (y) at law, or in equity, for the performance of its duties as the investment adviser or subadviser of any of the Funds."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "liability_clause",
+        "extracted": "The Adviser hereby agrees to indemnify and save harmless FASC and its trustees, officers and employees (each of the foregoing an"
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_New": {
+    "contract_id": "NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_New",
+    "summary": "This contract is between Peregrine/Bridge Transfer Corporation (Licensor) and Neon Systems, Inc. (Licensee). It outlines terms for distributing software products licensed from the Licensor. Key points include:\n- The Licensee will market and sublicense the Licensed Products to customers.\n- Documentation includes all materials used by Customers with the Products.\n- An Emergency Fix is a temporary solution provided by the Licensor.\nThe contract covers pricing, payment, order details, warranties, covenants, indemnification, audits, limited warranties, liability, term, and termination. It also specifies that neither party may compete or disclose confidential information after termination.",
+    "termination_clause": "Upon thirty (30) days prior written notice if Licensee enters into an agreement or other arrangement relating to the merger of Licensee with another entity, the acquisition of the majority of Licensee's issued and outstanding capital stock or the acquisition of substantially all of the assets of Licensee.",
+    "confidentiality_clause": "Licensee shall accept or reject the Licensed Products or Documentation within a ten (10) day evaluation period after receipt of such Licensed Product and the related Documentation by Licensee.",
+    "liability_clause": "Section 9.4 FURTHER REMEDIES FOR INFRINGEMENT.",
+    "category": "Distributor",
+    "part": "Part_III",
+    "char_count": 56035,
+    "n_chunks": 9,
+    "summary_word_count": 93,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 6,
+        "clause_type": "termination_clause",
+        "extracted": "Section 14.1 TERM."
+      },
+      {
+        "chunk_index": 7,
+        "clause_type": "termination_clause",
+        "extracted": "Upon thirty (30) days prior written notice if Licensee enters into an agreement or other arrangement relating to the merger of Licensee with another entity, the acquisition of the majority of Licensee's issued and outstanding capital stock or the acquisition of substantially all of the assets of Licensee."
+      },
+      {
+        "chunk_index": 5,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Section 10.2 CONFIDENTIAL INFORMATION."
+      },
+      {
+        "chunk_index": 2,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Licensee shall accept or reject the Licensed Products or Documentation within a ten (10) day evaluation period after receipt of such Licensed Product and the related Documentation by Licensee."
+      },
+      {
+        "chunk_index": 4,
+        "clause_type": "liability_clause",
+        "extracted": "Section 9.1 INDEMNIFICATION OF LICENSOR."
+      },
+      {
+        "chunk_index": 5,
+        "clause_type": "liability_clause",
+        "extracted": "Section 9.4 FURTHER REMEDIES FOR INFRINGEMENT."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT": {
+    "contract_id": "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT",
+    "summary": "This contract is a service agreement between Theravance Biopharma UK Limited and Brett Haumann. The key obligations involve maintaining confidentiality, refraining from disclosing confidential information, and the right to terminate under specified circumstances. Risks include breaches of confidentiality, potential legal disputes, and the ability for either party to terminate the agreement.",
+    "termination_clause": "The rights of the Company under clause 18.1 are without prejudice to any other rights that it might have at law to terminate the Executive's employment or to accept any breach of this Agreement by the Executive as having brought the Agreement to an end.",
+    "confidentiality_clause": "Without prejudice to the Executive's common law and fiduciary duties, the Executive shall not during employment or at any time after Termination and whether for their own benefit\nor for the benefit of any third party:\n15.1.1 use any Confidential Information; or\n15.1.2 disclose any Confidential Information to any person, company or other organisation whatsoever,\nexcept in the proper course of their duties, as required by law or as authorised by the Company in writing.",
+    "liability_clause": "Not found",
+    "category": "Service",
+    "part": "Part_III",
+    "char_count": 32724,
+    "n_chunks": 5,
+    "summary_word_count": 51,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 3,
+        "clause_type": "termination_clause",
+        "extracted": "The rights of the Company under clause 18.1 are without prejudice to any other rights that it might have at law to terminate the Executive's employment or to accept any breach of this Agreement by the Executive as having brought the Agreement to an end."
+      },
+      {
+        "chunk_index": 2,
+        "clause_type": "termination_clause",
+        "extracted": ""
+      },
+      {
+        "chunk_index": 2,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Without prejudice to the Executive's common law and fiduciary duties, the Executive shall not during employment or at any time after Termination and whether for their own benefit\nor for the benefit of any third party:\n15.1.1 use any Confidential Information; or\n15.1.2 disclose any Confidential Information to any person, company or other organisation whatsoever,\nexcept in the proper course of their duties, as required by law or as authorised by the Company in writing."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "confidentiality_clause",
+        "extracted": "STRICTLY PRIVATE AND CONFIDENTIAL"
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "liability_clause",
+        "extracted": ""
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement": {
+    "contract_id": "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement",
+    "summary": "This Co-Branding Agreement between VerticalNet and PaperExchange aims to establish a collaborative venture, creating a career center and equipment listings website co-branded with Pulp and Paper Online. It outlines essential terms such as affiliate relationships, revenue from the career center, equipment listings, shared URLs for marketing purposes, and confidentiality of proprietary information. The agreement also specifies that both parties must maintain exclusive promotion URLs to enhance their online presence beneficially for both companies.",
+    "termination_clause": "Upon Termination.",
+    "confidentiality_clause": "Confidential Information shall mean all proprietary and confidential information of a party, including, without limitation, trade secrets, technical information, business information, sales information, customer and potential customer lists and identities, product sales plans, sublicense agreements, inventions, developments, discoveries, software, know-how, methods, techniques, formulae, data, processes and other trade secrets and proprietary ideas, whether or not protectable under patent, trademark, copyright or other areas of law, that the other party has access to or receives, but does not include information that (a) is or becomes publicly available through no fault of receiving party; (b) was already known to the receiving party at the time it was disclosed to the receiving party, as evidenced by written records of the receiving party; (c) is independently developed by employees of the receiving party who had no knowledge of or access to such information, as evidenced by written records of the receiving party; or (d) is received from a third party who is under no obligation of confidentiality to the disclosing party.",
+    "liability_clause": "Notwithstanding anything to the contrary in this Agreement, in the event of an alleged violation of Article 10 [CONFIDENTIALITY] of this Agreement by either party, the party alleging such a violation may seek temporary injunctive or other appropriate equitable relief from any court of competent jurisdiction pending appointment of an arbitrator.",
+    "category": "Co_Branding",
+    "part": "Part_I",
+    "char_count": 79424,
+    "n_chunks": 13,
+    "summary_word_count": 73,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 6,
+        "clause_type": "termination_clause",
+        "extracted": "Upon Termination."
+      },
+      {
+        "chunk_index": 9,
+        "clause_type": "termination_clause",
+        "extracted": "No Assignment."
+      },
+      {
+        "chunk_index": 7,
+        "clause_type": "confidentiality_clause",
+        "extracted": "In order to facilitate the resolution of controversies or claims between the parties with respect to each party hereto, such controversies or claims, including details regarding negotiations, arbitration and settlement terms, shall be treated as Confidential Information of the other party hereto in accordance with Article 10 [CONFIDENTIALITY]."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Confidential Information shall mean all proprietary and confidential information of a party, including, without limitation, trade secrets, technical information, business information, sales information, customer and potential customer lists and identities, product sales plans, sublicense agreements, inventions, developments, discoveries, software, know-how, methods, techniques, formulae, data, processes and other trade secrets and proprietary ideas, whether or not protectable under patent, trademark, copyright or other areas of law, that the other party has access to or receives, but does not include information that (a) is or becomes publicly available through no fault of receiving party; (b) was already known to the receiving party at the time it was disclosed to the receiving party, as evidenced by written records of the receiving party; (c) is independently developed by employees of the receiving party who had no knowledge of or access to such information, as evidenced by written records of the receiving party; or (d) is received from a third party who is under no obligation of confidentiality to the disclosing party."
+      },
+      {
+        "chunk_index": 8,
+        "clause_type": "liability_clause",
+        "extracted": "12.3 Limitation of Liability"
+      },
+      {
+        "chunk_index": 7,
+        "clause_type": "liability_clause",
+        "extracted": "Notwithstanding anything to the contrary in this Agreement, in the event of an alleged violation of Article 10 [CONFIDENTIALITY] of this Agreement by either party, the party alleging such a violation may seek temporary injunctive or other appropriate equitable relief from any court of competent jurisdiction pending appointment of an arbitrator."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement": {
+    "contract_id": "CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement",
+    "summary": "This contract is an intellectual property agreement between Nuance Communications, Inc., and Cerence Inc. It details the assignment of patents, trademarks, domain names, and other intellectual property rights from Nuance to Cerence. Key obligations include recording intellectual property assignments, ensuring no implied rights are granted, and transferring ownership as part of a corporate restructuring. Risks involve potential legal disputes over ownership and use of intellectual property, especially in light of the impending spin-off.",
+    "termination_clause": "This Agreement may be terminated by Nuance at any time, in its sole discretion, prior to the Distribution; provided, however, that this Agreement shall automatically terminate upon the termination of the Separation Agreement in accordance with its terms.",
+    "confidentiality_clause": "For the avoidance of doubt, the \"SpinCo Technology Assets\" exclude any OEM Technology.",
+    "liability_clause": "Each Party agrees that nothing in this Agreement shall affect the other Party's right to serve process in any other manner permitted by Law (including pursuant to the rules for foreign service of process authorized by the Hague Convention).",
+    "category": "IP",
+    "part": "Part_I",
+    "char_count": 60933,
+    "n_chunks": 11,
+    "summary_word_count": 73,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 7,
+        "clause_type": "termination_clause",
+        "extracted": "This Agreement may be terminated by Nuance at any time, in its sole discretion, prior to the Distribution; provided, however, that this Agreement shall automatically terminate upon the termination of the Separation Agreement in accordance with its terms."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "termination_clause",
+        "extracted": "Section 9.01."
+      },
+      {
+        "chunk_index": 2,
+        "clause_type": "confidentiality_clause",
+        "extracted": "For the avoidance of doubt, the \"SpinCo Technology Assets\" exclude any OEM Technology."
+      },
+      {
+        "chunk_index": 5,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Nuance hereby acknowledges SpinCo's right, title and interest in and to the SpinCo IP."
+      },
+      {
+        "chunk_index": 6,
+        "clause_type": "liability_clause",
+        "extracted": "Section 7.01. Limitation on Liability."
+      },
+      {
+        "chunk_index": 9,
+        "clause_type": "liability_clause",
+        "extracted": "Each Party agrees that nothing in this Agreement shall affect the other Party's right to serve process in any other manner permitted by Law (including pursuant to the rules for foreign service of process authorized by the Hague Convention)."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement1": {
+    "contract_id": "BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement1",
+    "summary": "This manufacturing agreement between Stremicks Heritage Foods LLC and Premier Nutrition Corporation specifies the terms for producing food products on a contract basis. Key provisions include the commencement date, termination date, product descriptions, records, ingredients/materials/packaging, pricing, quality expectations, and post-holding quality standards. The production will take place at either Heritage's or Jasper's facilities in [***], subject to Premier's approval.",
+    "termination_clause": "In the event that either Party shall be totally or partially unable to fulfill one or more of its obligations hereunder as a result of acts or occurrences beyond the control of the Party affected, such as, but not limited to, actions, omissions or impositions by local, state or federal governmental authorities, fire, flood, earthquake or other natural disasters, acts of God, revolution, strikes or fuel shortages, the Party so affected shall be totally or partially relieved from fulfilling its obligations under this Agreement during the period of such force majeure; provided, however, that the affected Party shall notify the other Party of the circumstances as soon as reasonably possible; and further provided that if such period of force majeure shall continue for a period of [***] or more, the Party not affected shall be entitled to terminate this Agreement by giving notice to take effect immediately.",
+    "confidentiality_clause": "10. FORCE MAJEURE\nIn the event that either Party shall be totally or partially unable to fulfill one or more of its obligations hereunder as a result of acts or occurrences beyond the control of the Party affected, such as, but not limited to, actions, omissions or impositions by local, state or federal governmental authorities,\nfire, flood, earthquake or other natural disasters, acts of God, revolution, strikes or fuel shortages, the Party so affected shall be totally or partially relieved from fulfilling its obligations under this Agreement during the period of such force majeure; provided, however, that the affected Party shall notify the\nother Party of the circumstances as soon as reasonably possible; and further provided that if such period of force majeure shall continue for a period of [***] or more, the Party not affected shall be entitled to terminate this Agreement by giving notice to take effect immediately.\n\nThe foregoing shall not\nrelieve either Party of any obligation to make payments required pursuant to this Agreement in accordance with the terms hereof.",
+    "liability_clause": "Heritage shall indemnify, defend and hold Premier harmless from and against any Losses arising out of or relating to (i) Heritage's or Jasper's negligence or willful misconduct, (ii) the manufacturing, packaging, storing and consumption of the Products (except to the extent resulting from Heritage's compliance with Premier's Specifications), (iii) any breach of the Agreement by Heritage or (iv) ingredients or packaging materials purchased by Heritage or Jasper.",
+    "category": "Manufacturing",
+    "part": "Part_I",
+    "char_count": 41572,
+    "n_chunks": 6,
+    "summary_word_count": 59,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 4,
+        "clause_type": "termination_clause",
+        "extracted": "In the event that either Party shall be totally or partially unable to fulfill one or more of its obligations hereunder as a result of acts or occurrences beyond the control of the Party affected, such as, but not limited to, actions, omissions or impositions by local, state or federal governmental authorities, fire, flood, earthquake or other natural disasters, acts of God, revolution, strikes or fuel shortages, the Party so affected shall be totally or partially relieved from fulfilling its obligations under this Agreement during the period of such force majeure; provided, however, that the affected Party shall notify the other Party of the circumstances as soon as reasonably possible; and further provided that if such period of force majeure shall continue for a period of [***] or more, the Party not affected shall be entitled to terminate this Agreement by giving notice to take effect immediately."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "termination_clause",
+        "extracted": "If Premier requests that Products be produced at the Heritage Facility, Heritage may either produce such Products at the Heritage Facility or cause Jasper to produce such Products at the Jasper Facility, in which case Heritage shall be responsible for all shipping costs of transporting the Products to the Heritage Facility."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Heritage shall indemnify, defend and hold Premier harmless from and against any Losses arising out of or relating to (i) Heritage's or Jasper's negligence or willful misconduct, (ii) the manufacturing, packaging, storing and consumption of the Products (except to the extent resulting from Heritage's compliance with Premier's Specifications), (iii) any breach of the Agreement by Heritage or (iv) ingredients or packaging materials purchased by Heritage or Jasper."
+      },
+      {
+        "chunk_index": 4,
+        "clause_type": "confidentiality_clause",
+        "extracted": "10. FORCE MAJEURE\nIn the event that either Party shall be totally or partially unable to fulfill one or more of its obligations hereunder as a result of acts or occurrences beyond the control of the Party affected, such as, but not limited to, actions, omissions or impositions by local, state or federal governmental authorities,\nfire, flood, earthquake or other natural disasters, acts of God, revolution, strikes or fuel shortages, the Party so affected shall be totally or partially relieved from fulfilling its obligations under this Agreement during the period of such force majeure; provided, however, that the affected Party shall notify the\nother Party of the circumstances as soon as reasonably possible; and further provided that if such period of force majeure shall continue for a period of [***] or more, the Party not affected shall be entitled to terminate this Agreement by giving notice to take effect immediately.\n\nThe foregoing shall not\nrelieve either Party of any obligation to make payments required pursuant to this Agreement in accordance with the terms hereof."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "liability_clause",
+        "extracted": "Heritage shall indemnify, defend and hold Premier harmless from and against any Losses arising out of or relating to (i) Heritage's or Jasper's negligence or willful misconduct, (ii) the manufacturing, packaging, storing and consumption of the Products (except to the extent resulting from Heritage's compliance with Premier's Specifications), (iii) any breach of the Agreement by Heritage or (iv) ingredients or packaging materials purchased by Heritage or Jasper."
+      },
+      {
+        "chunk_index": 2,
+        "clause_type": "liability_clause",
+        "extracted": "For Product produced at Jasper facilities, Jasper shall invoice Premier on the date Jasper issues a Certificate of Analysis (COA) for those Products."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "SANDRIDGEENERGYINC_08_06_2009-EX-10.6-OPERATIONS AND MAINTENANCE AGREEMENT": {
+    "contract_id": "SANDRIDGEENERGYINC_08_06_2009-EX-10.6-OPERATIONS AND MAINTENANCE AGREEMENT",
+    "summary": "This contract is an Operations and Maintenance Agreement between Piñon Gathering Company LLC (Owner) and SandRidge Midstream Inc. (Operator). It outlines the engagement of the Operator to manage and maintain the gathering system on behalf of the Owner, including duties such as operation, maintenance, material procurement, personnel management, payment of expenses, proposed budgeting, capital projects, emergencies, reporting, commercial activities, regulatory affairs, time dedication, standard of care, limitation of authority, cost reimbursement, accounting methods, financial statements, tax preparation, banking, insurance and indemnification, force majeure, and general provisions. The agreement includes terms for engagement, termination, cooperation with the Owner or successor operator, duties as an operator, responsibilities for costs and expenses, reporting, records, insurance and indemnification, and general provisions.",
+    "termination_clause": "Upon the termination of this Agreement, Operator shall cooperate in the transition of operations to Owner or a successor operator and upon Owner's request, will promptly deliver all books and records and other property (including, without limitation, intellectual property) of Owner to Owner or the successor operator, as applicable.",
+    "confidentiality_clause": "Not applicable",
+    "liability_clause": "For the purposes of this definition, \"control\" means, where\nused with respect to any Person, the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of such Person, whether through the ownership of Voting Securities or interests, by contract or otherwise, and the terms \"controlling\" and\n\"controlled\" have correlative meanings.",
+    "category": "Maintenance",
+    "part": "Part_III",
+    "char_count": 70526,
+    "n_chunks": 10,
+    "summary_word_count": 117,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 2,
+        "clause_type": "termination_clause",
+        "extracted": "Owner shall have the right to terminate this Agreement at any time upon no less than 120 days prior written notice to Operator."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "termination_clause",
+        "extracted": "Upon the termination of this Agreement, Operator shall cooperate in the transition of operations to Owner or a successor operator and upon Owner's request, will promptly deliver all books and records and other property (including, without limitation, intellectual property) of Owner to Owner or the successor operator, as applicable."
+      },
+      {
+        "chunk_index": 6,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Not applicable"
+      },
+      {
+        "chunk_index": 7,
+        "clause_type": "liability_clause",
+        "extracted": "No 'other insurance' clause may be invoked by any insurer."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "liability_clause",
+        "extracted": "For the purposes of this definition, \"control\" means, where\nused with respect to any Person, the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of such Person, whether through the ownership of Voting Securities or interests, by contract or otherwise, and the terms \"controlling\" and\n\"controlled\" have correlative meanings."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT": {
+    "contract_id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT",
+    "summary": "This Promotion and Distribution Agreement between Whitesmoke Inc. and Google Inc., effective August 1, 2011, details the terms for distributing the WhiteSmoke Writer application bundled with the Chrome Browser. Key obligations include promoting the app to users, ensuring compliance with criteria checks, and maintaining open browser windows. Notable risks involve adhering to specific software requirements and potentially facing legal challenges due to confidentiality provisions.",
+    "termination_clause": "5.2 Termination for breach.",
+    "confidentiality_clause": "Distributor may appoint its own supervising counsel of its choice at its own expense.",
+    "liability_clause": "9.3 Subject to Clauses 9.1 and 9.2, neither party shall be liable under this Agreement (whether in contract, tort or otherwise) for any:(a) loss of anticipated savings;(b) loss of business opportunity (which for the avoidance of doubt shall not include loss of advertising revenue);(c) loss of or corruption of data; (d) loss or damage resulting from third party claims; or(e) indirect or consequential losses;suffered or incurred by the other party (whether or not such losses were within the contemplation of the parties at the date of this Agreement).",
+    "category": "Promotion",
+    "part": "Part_II",
+    "char_count": 66344,
+    "n_chunks": 11,
+    "summary_word_count": 64,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 4,
+        "clause_type": "termination_clause",
+        "extracted": "5.4"
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "termination_clause",
+        "extracted": "5.2 Termination for breach."
+      },
+      {
+        "chunk_index": 4,
+        "clause_type": "confidentiality_clause",
+        "extracted": "5.4 Confidential Information"
+      },
+      {
+        "chunk_index": 6,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Distributor may appoint its own supervising counsel of its choice at its own expense."
+      },
+      {
+        "chunk_index": 5,
+        "clause_type": "liability_clause",
+        "extracted": "9.3 Subject to Clauses 9.1 and 9.2, neither party shall be liable under this Agreement (whether in contract, tort or otherwise) for any:(a) loss of anticipated savings;(b) loss of business opportunity (which for the avoidance of doubt shall not include loss of advertising revenue);(c) loss of or corruption of data; (d) loss or damage resulting from third party claims; or(e) indirect or consequential losses;suffered or incurred by the other party (whether or not such losses were within the contemplation of the parties at the date of this Agreement)."
+      },
+      {
+        "chunk_index": 6,
+        "clause_type": "liability_clause",
+        "extracted": "Distributor may appoint its own supervising counsel of its choice at its own expense."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "FerroglobePlc_20150624_F-4A_EX-10.20_9154746_EX-10.20_Outsourcing Agreement": {
+    "contract_id": "FerroglobePlc_20150624_F-4A_EX-10.20_9154746_EX-10.20_Outsourcing Agreement",
+    "summary": "This Outsourcing Agreement between Silicon Smelters Pty Ltd and Espacio Information Technology SA outlines a contract for IT management services to be provided by EIT on behalf of the Customer. The agreement covers network connectivity, servers, applications, user workstations, software licenses, and standard guidelines. It specifies that supervision is handled by both parties' respective executives, with the scope limited to IT management systems excluding industrial and production environments. Payments are made for services rendered under this Agreement.",
+    "termination_clause": "Once this Agreement has expired, each party must, depending on the choice of the other party, destroy or hand over all technical, economic, financial or commercial information, confidential or not, in its possession, directly or indirectly, as convened in the present Agreement.",
+    "confidentiality_clause": "Not found",
+    "liability_clause": "10.1.",
+    "category": "Outsourcing",
+    "part": "Part_I",
+    "char_count": 28719,
+    "n_chunks": 5,
+    "summary_word_count": 77,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 3,
+        "clause_type": "termination_clause",
+        "extracted": "Once this Agreement has expired, each party must, depending on the choice of the other party, destroy or hand over all technical, economic, financial or commercial information, confidential or not, in its possession, directly or indirectly, as convened in the present Agreement."
+      },
+      {
+        "chunk_index": 2,
+        "clause_type": "confidentiality_clause",
+        "extracted": "7.3.8."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Once this Agreement has expired, each party must, depending on the choice of the other party, destroy or hand over all technical, economic, financial or commercial information, confidential or not, in its possession, directly or indirectly, as convened in the present Agreement."
+      },
+      {
+        "chunk_index": 2,
+        "clause_type": "liability_clause",
+        "extracted": "10.1."
+      },
+      {
+        "chunk_index": 4,
+        "clause_type": "liability_clause",
+        "extracted": "18."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "ArmstrongFlooringInc_20190107_8-K_EX-10.2_11471795_EX-10.2_Intellectual Property Agreement": {
+    "contract_id": "ArmstrongFlooringInc_20190107_8-K_EX-10.2_11471795_EX-10.2_Intellectual Property Agreement",
+    "summary": "This Intellectual Property Agreement (the \"Agreement\") is between Armstrong Flooring, Inc., and AFI Licensing LLC regarding the transfer of certain intellectual property rights related to Armstrong Wood Products, Inc., HomerWood Hardwood Flooring Company, and their subsidiaries. The agreement aims to provide a license for the use of these assets in the Arizona Field, including trademarks, copyrights, know-how, patents, and other intellectual property owned by the parties involved.",
+    "termination_clause": "In the event that Arizona declines to institute any Proceedings against third-party infringers or violators of any Arizona Licensed Patents, regarding activities that would fall within the Company Field if conducted by the Company, within forty-five (45) days after being notified or becoming aware of such infringing conduct, the Company or Buyer shall have the right to institute any Proceedings against such third-party infringers or violators.",
+    "confidentiality_clause": "Not found",
+    "liability_clause": "Not found",
+    "category": "IP",
+    "part": "Part_I",
+    "char_count": 53787,
+    "n_chunks": 11,
+    "summary_word_count": 67,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 4,
+        "clause_type": "termination_clause",
+        "extracted": "In the event that Arizona declines to institute any Proceedings against third-party infringers or violators of any Arizona Licensed Patents, regarding activities that would fall within the Company Field if conducted by the Company, within forty-five (45) days after being notified or becoming aware of such infringing conduct, the Company or Buyer shall have the right to institute any Proceedings against such third-party infringers or violators."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "termination_clause",
+        "extracted": ""
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "confidentiality_clause",
+        "extracted": ""
+      },
+      {
+        "chunk_index": 4,
+        "clause_type": "confidentiality_clause",
+        "extracted": "In the event that Arizona declines to institute any Proceedings against third-party infringers or violators of any Arizona Licensed Patents, regarding activities that would fall within the Company Field if conducted by the Company, within forty-five (45) days after being notified or becoming aware of such infringing conduct, the Company or Buyer shall have the right to institute any Proceedings against such third-party infringers or violators."
+      },
+      {
+        "chunk_index": 4,
+        "clause_type": "liability_clause",
+        "extracted": "In the event that Arizona declines to institute any Proceedings against third-party infringers or violators of any Arizona Licensed Patents, regarding activities that would fall within the Company Field if conducted by the Company, within forty-five (45) days after being notified or becoming aware of such infringing conduct, the Company or Buyer shall have the right to institute any Proceedings against such third-party infringers or violators."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "liability_clause",
+        "extracted": ""
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement1": {
+    "contract_id": "PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement1",
+    "summary": "This CONTENT LICENSE, MARKETING AND SALES AGREEMENT (the \"Agreement\") is entered into between eFashion Solutions, LLC and Playboy.com, Inc., effective January 15, 2008. The agreement outlines the terms for operating the Playboy Commerce Business, including marketing, promotion, distribution of branded, unbranded, and co-branded merchandise via physical media and online through Catalogs and Websites. EFS is responsible for developing, designing, operating, maintaining, and distributing the Catalogs and Websites, as well as creating and using content to be displayed on them. The agreement also includes a provision allowing EFS to display \"Powered by eFashionSolutions\" on each page of the Websites.",
+    "termination_clause": "In addition, Sections 6.1 through 6.10 shall survive any termination of this Agreement until all amounts due in connection with activities during the Term are paid and all reports provided.",
+    "confidentiality_clause": "Each party agrees (a) that it will not disclose to any third party or use any Confidential Information disclosed to it by the other except as expressly permitted in this Agreement and (b) that it will take all reasonable measures to maintain the confidentiality of all Confidential Information of the other party using at least the degree of care and security as each uses to maintain the confidentiality of its own Confidential Information.",
+    "liability_clause": "Indemnification.",
+    "category": "License_Agreements",
+    "part": "Part_I",
+    "char_count": 112597,
+    "n_chunks": 17,
+    "summary_word_count": 98,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 11,
+        "clause_type": "termination_clause",
+        "extracted": "10.1."
+      },
+      {
+        "chunk_index": 12,
+        "clause_type": "termination_clause",
+        "extracted": "In addition, Sections 6.1 through 6.10 shall survive any termination of this Agreement until all amounts due in connection with activities during the Term are paid and all reports provided."
+      },
+      {
+        "chunk_index": 11,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Each party agrees (a) that it will not disclose to any third party or use any Confidential Information disclosed to it by the other except as expressly permitted in this Agreement and (b) that it will take all reasonable measures to maintain the confidentiality of all Confidential Information of the other party using at least the degree of care and security as each uses to maintain the confidentiality of its own Confidential Information."
+      },
+      {
+        "chunk_index": 10,
+        "clause_type": "confidentiality_clause",
+        "extracted": "EFS agrees to make and incorporate such changes or corrections promptly upon notice from Client and at EFS' sole cost and expense."
+      },
+      {
+        "chunk_index": 12,
+        "clause_type": "liability_clause",
+        "extracted": "Indemnification."
+      },
+      {
+        "chunk_index": 13,
+        "clause_type": "liability_clause",
+        "extracted": "Not applicable"
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement": {
+    "contract_id": "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement",
+    "summary": "This ODM Supply Agreement between Organic Preparations Inc. (Manufacturer) and Agape ATP International Holding Limited (Customer) outlines a ten-year term agreement for promoting, selling, marketing, distributing, and administering products listed in Schedule A. Key obligations include providing documentation and complying with local laws, manufacturing standards, packaging regulations, and performing as per the Customer's needs. Risks include non-compliance with local laws and regulations, potential breach of contract due to reasons other than specified, and renewal terms requiring six months' notice for termination.",
+    "termination_clause": "A six (6) months notice must be given by either party of their intention to terminate relations due to any reason other than breach of this agreement.",
+    "confidentiality_clause": "Not found",
+    "liability_clause": "6.1 The Manufacturing Companies utilised by the Agent to manufacture the products listed in Schedule A of this agreement shall maintain throughout the term of this agreement product liability insurance issued by a reputable insurance company under standard terms and conditions in the industry to cover the liability of the Customer and to indemnify the Customer from any costs, expenses, loss or damages resulting from any act, neglect or default of the company.",
+    "category": "Supply",
+    "part": "Part_I",
+    "char_count": 19256,
+    "n_chunks": 3,
+    "summary_word_count": 81,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 1,
+        "clause_type": "termination_clause",
+        "extracted": "7.3 Rights to termination"
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "termination_clause",
+        "extracted": "A six (6) months notice must be given by either party of their intention to terminate relations due to any reason other than breach of this agreement."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "liability_clause",
+        "extracted": "6.1 The Manufacturing Companies utilised by the Agent to manufacture the products listed in Schedule A of this agreement shall maintain throughout the term of this agreement product liability insurance issued by a reputable insurance company under standard terms and conditions in the industry to cover the liability of the Customer and to indemnify the Customer from any costs, expenses, loss or damages resulting from any act, neglect or default of the company."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "liability_clause",
+        "extracted": "3.5 (a) The Manufacturer covenants that the Products are clear of any Intellectual Property claims by third parties and that the Customer has full rights to sell and market the Products worldwide.\n\nThe Manufacturer indemnifies the Customer for the same."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "TICKETSCOMINC_06_22_1999-EX-10.22-SPONSORSHIP AGREEMENT": {
+    "contract_id": "TICKETSCOMINC_06_22_1999-EX-10.22-SPONSORSHIP AGREEMENT",
+    "summary": "This sponsorship agreement between Tickets.com, Inc. and MP3.com, Inc., stipulates that during the term from February 17, 1999, Tickets will be MP3's exclusive source for sports, entertainment, and travel tickets on their website. The sponsorships include a guaranteed minimum of 3 million impressions per month over five years. Payments are due monthly at specific intervals with late fees assessed if not paid within the stipulated time. The agreement can be terminated by either party upon thirty days' notice prior to the anniversary date or renewed for another year with increased fees, provided it does not exceed a [***] percent increase from the existing Sponsor Fees.",
+    "termination_clause": "Furthermore, for a thirty (30) day period, beginning thirty (30) days prior to the first anniversary of this Agreement, Tickets shall have the right to renew the Agreement for another year with Sponsor Fees that do not exceed a [***] percent increase over the existing Sponsor Fees.",
+    "confidentiality_clause": "Tickets shall be MP3.com's exclusive partner/source for sports, entertainment, and travel tickets, and MP3.com shall include a Tickets Portal on the \"Music\" page and the \"Pop,\" \"Rock\" and \"Alternative\" genre pages on the Website.",
+    "liability_clause": "Tickets shall have the right to audit MP3.com's records in this regard.",
+    "category": "Sponsorship",
+    "part": "Part_III",
+    "char_count": 7329,
+    "n_chunks": 2,
+    "summary_word_count": 105,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 0,
+        "clause_type": "termination_clause",
+        "extracted": "Furthermore, for a thirty (30) day period, beginning thirty (30) days prior to the first anniversary of this Agreement, Tickets shall have the right to renew the Agreement for another year with Sponsor Fees that do not exceed a [***] percent increase over the existing Sponsor Fees."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Tickets shall be MP3.com's exclusive partner/source for sports, entertainment, and travel tickets, and MP3.com shall include a Tickets Portal on the \"Music\" page and the \"Pop,\" \"Rock\" and \"Alternative\" genre pages on the Website."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "liability_clause",
+        "extracted": "Tickets shall have the right to audit MP3.com's records in this regard."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "CcRealEstateIncomeFundadv_20181205_POS 8C_EX-99.(H)(3)_11447739_EX-99.(H)(3)_Marketing Agreement": {
+    "contract_id": "CcRealEstateIncomeFundadv_20181205_POS 8C_EX-99.(H)(3)_11447739_EX-99.(H)(3)_Marketing Agreement",
+    "summary": "This contract is a Wholesale Marketing Agreement between ALPS Distributors Inc. and S2K Financial LLC. The purpose of the agreement is to allow S2K's representatives to market the Funds to Intermediaries, including broker-dealers registered with SEC and FINRA. S2K will use its reasonable best efforts to identify and introduce Intermediaries to the Funds, while not acting as an underwriter for sales loads. S2K may engage in seminars, distribute materials, and perform other marketing services on behalf of the Distributor. The agreement specifies that S2K must comply with certain conditions regarding registration and marketing practices.",
+    "termination_clause": "If Distributor fails to provide S2K with comments within one business day, the $250 expedited review charge will not apply.",
+    "confidentiality_clause": "Confidentiality. Each party to this Agreement shall safeguard and hold confidential from disclosure to unauthorized parties all Confidential Information (as defined below) of the other party or parties.\nFor purposes of this Section 8, the term \"Confidential Information\" shall mean any and all information which is in any way connected with, derived from or related to the business of a party, including without limitation, any business and financial records, any retail or institutional customer information, computer programs, technical data, investment information, lists, compilations, compositions, programs, plans, devices, descriptions, drawings, methods, techniques, processes, designs, theories concepts or ideas, and any information relating to the pricing or marketing policies, suppliers or customers of a party.\n(b) Confidential Information shall not include information to the extent such information is (i) already known to the receiving party free of any restriction at the time obtained, including information in the public domain; (ii) subsequently learned from an independent third party free of restriction; (iii) known through no wrongful act of any party; or (iv) independently developed by one party without reference to information which is confidential.\n(c) For purposes of this Section 8, only the officers, directors and employees and agents of the parties, including their respective accountants, auditors and attorneys, shall be authorized parties, provided those individuals have a \"need to know\" the Confidential Information that is connected with or related to the business of the party.\n(d) Each party agrees not to disclose any Confidential Information except as necessary in connection with this Agreement or for purposes of enforcing its rights under this Agreement.",
+    "liability_clause": "(a) S2K shall indemnify and hold harmless the Distributor and each of its affiliates, officers, directors, employees, agents and control persons (as defined in Section 15 of the 1933 Act or Section 20 of the 1934 Act), from and against any loss, liability, claim, damage or expense (including the reasonable cost of investigating or defending any alleged loss, liability, claim, damage or expense and reasonable counsel fees incurred in connection therewith), as incurred, arising in connection with (i) S2K's violation of any of the provisions of this Agreement or (ii) S2K's violation of any applicable law, rule or regulation with respect to its conduct under the Agreement; provided, however, that in no case is the foregoing indemnity to be deemed to protect the Distributor or any of its affiliates, officers, directors, employees, agents or control persons (as defined in Section 15 of the 1933 Act or Section 20 of the 1934 Act) against any liability to which the Distributor or any such person would otherwise be subject by reason of its willful misfeasance, bad faith or gross negligence or by reason of the Distributor's reckless disregard of its obligations and duties under this Agreement.",
+    "category": "Marketing",
+    "part": "Part_I",
+    "char_count": 29167,
+    "n_chunks": 5,
+    "summary_word_count": 94,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 1,
+        "clause_type": "termination_clause",
+        "extracted": "If Distributor fails to provide S2K with comments within one business day, the $250 expedited review charge will not apply."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "termination_clause",
+        "extracted": ""
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Confidentiality. Each party to this Agreement shall safeguard and hold confidential from disclosure to unauthorized parties all Confidential Information (as defined below) of the other party or parties.\nFor purposes of this Section 8, the term \"Confidential Information\" shall mean any and all information which is in any way connected with, derived from or related to the business of a party, including without limitation, any business and financial records, any retail or institutional customer information, computer programs, technical data, investment information, lists, compilations, compositions, programs, plans, devices, descriptions, drawings, methods, techniques, processes, designs, theories concepts or ideas, and any information relating to the pricing or marketing policies, suppliers or customers of a party.\n(b) Confidential Information shall not include information to the extent such information is (i) already known to the receiving party free of any restriction at the time obtained, including information in the public domain; (ii) subsequently learned from an independent third party free of restriction; (iii) known through no wrongful act of any party; or (iv) independently developed by one party without reference to information which is confidential.\n(c) For purposes of this Section 8, only the officers, directors and employees and agents of the parties, including their respective accountants, auditors and attorneys, shall be authorized parties, provided those individuals have a \"need to know\" the Confidential Information that is connected with or related to the business of the party.\n(d) Each party agrees not to disclose any Confidential Information except as necessary in connection with this Agreement or for purposes of enforcing its rights under this Agreement."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "liability_clause",
+        "extracted": "(a) S2K shall indemnify and hold harmless the Distributor and each of its affiliates, officers, directors, employees, agents and control persons (as defined in Section 15 of the 1933 Act or Section 20 of the 1934 Act), from and against any loss, liability, claim, damage or expense (including the reasonable cost of investigating or defending any alleged loss, liability, claim, damage or expense and reasonable counsel fees incurred in connection therewith), as incurred, arising in connection with (i) S2K's violation of any of the provisions of this Agreement or (ii) S2K's violation of any applicable law, rule or regulation with respect to its conduct under the Agreement; provided, however, that in no case is the foregoing indemnity to be deemed to protect the Distributor or any of its affiliates, officers, directors, employees, agents or control persons (as defined in Section 15 of the 1933 Act or Section 20 of the 1934 Act) against any liability to which the Distributor or any such person would otherwise be subject by reason of its willful misfeasance, bad faith or gross negligence or by reason of the Distributor's reckless disregard of its obligations and duties under this Agreement."
+      },
+      {
+        "chunk_index": 2,
+        "clause_type": "liability_clause",
+        "extracted": "Representations."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules": {
+    "contract_id": "SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules",
+    "summary": "This agreement between EuroTel and Sicap Ltd pertains specifically to their SICAP(R) modules (PPB, VCA, and OTA). It includes standard service offerings such as hotline support, monthly telephone support, remote ISDN line access, and change management. Additional support is available but must be requested through separate quotation and ordering procedures. Pricing varies based on the type of support required. The contract excludes third-party software issues, misuse, or modifications to the system.",
+    "termination_clause": "In case of a substantial breach of this maintenance and support contract by either party, which is not remedied within thirty days from the other party's notice thereof, the other party shall have the right to terminate this maintenance and support contract with immediate effect without juridical procedures.",
+    "confidentiality_clause": "Not found",
+    "liability_clause": "Sicap Ltd's liability for indirect loss, including consequential loss, loss of profit, lost savings and loss caused by interruption of operations is excluded.",
+    "category": "Maintenance",
+    "part": "Part_III",
+    "char_count": 21226,
+    "n_chunks": 4,
+    "summary_word_count": 71,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 2,
+        "clause_type": "termination_clause",
+        "extracted": "7.3 Costs and expenses"
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "termination_clause",
+        "extracted": "In case of a substantial breach of this maintenance and support contract by either party, which is not remedied within thirty days from the other party's notice thereof, the other party shall have the right to terminate this maintenance and support contract with immediate effect without juridical procedures."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "liability_clause",
+        "extracted": "Sicap Ltd's liability for indirect loss, including consequential loss, loss of profit, lost savings and loss caused by interruption of operations is excluded."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "liability_clause",
+        "extracted": "7.7 Changes to the contract"
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT": {
+    "contract_id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT",
+    "summary": "This contract is a joint filing agreement designed to report the ownership of securities by multiple parties, including individuals and trusts. Key obligations include jointly preparing and submitting reports to regulatory authorities, ensuring timely amendments are filed, and maintaining accurate information provided. Notable risks involve responsibility for the completeness and accuracy of each party's data, especially when dealing with others' information.",
+    "termination_clause": "Not found",
+    "confidentiality_clause": "Not found",
+    "liability_clause": "Not found",
+    "category": "Joint_Venture",
+    "part": "Part_III",
+    "char_count": 1072,
+    "n_chunks": 1,
+    "summary_word_count": 61,
+    "summary_retried": true,
+    "chunk_results": [],
+    "chunk_summaries": []
+  },
+  "TELKOMSALTD_01_30_2003-EX-10-LICENCE AND MAINTENANCE AGREEMENT": {
+    "contract_id": "TELKOMSALTD_01_30_2003-EX-10-LICENCE AND MAINTENANCE AGREEMENT",
+    "summary": "This contract establishes a licensing agreement between SAP Africa and TELKOM for software use, facilitating TELKOM's creation of an Internet-based business platform through the \"Marketplace\" feature. Key obligations include granting licenses under specified conditions with terms and definitions clarified. Notable risks involve adherence to legal frameworks like the Companies Act 1973 and potential changes in ownership impacting subsidiary status.",
+    "termination_clause": "If, at any time during the currency of this Agreement, TELKOM in its reasonable discretion based on prima facie evidence determines that SAP AFRICA has, in respect of this Agreement or any other contract or agreement to which they were or are Parties:\n16. 2. 1 acted dishonestly and/or in bad faith, and/or\n16. 2. 2 has made any intentional or negligent misrepresentation to TELKOM whether in any negotiations preceding the conclusion of, or in the execution of this or any other agreement between the Parties,\nthen TELKOM will be entitled by written notice to SAP Africa forthwith to cancel this Agreement.",
+    "confidentiality_clause": "TELKOM shall invoice and recover from the licensee of such products the full license fee thereof and TELKOM shall pay to SAP Africa an amount equal to such license fee less the aforesaid referral fee.",
+    "liability_clause": "12. 3 Subject to clause 11. 2, SAP AFRICA shall indemnify TELKOM against all claims, liabilities, and costs, including reasonable attorneys fees, reasonably incurred in the defence of any claim brought against TELKOM in the TERRITORY by a third party alleging that TELKOM'S USE of the SOFTWARE and DOCUMENTATION infringes a third party's copyright, patent, PROPRIETARY INFORMATION and/or trade secrets; provided that TELKOM promptly notifies SAP AFRICA in writing of any such claim and SAP AFRICA is permitted to control fully the defence and any settlement of such claim at SAP AFRICA'S own expense.",
+    "category": "Maintenance",
+    "part": "Part_III",
+    "char_count": 97259,
+    "n_chunks": 18,
+    "summary_word_count": 59,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 4,
+        "clause_type": "termination_clause",
+        "extracted": "6. 2"
+      },
+      {
+        "chunk_index": 10,
+        "clause_type": "termination_clause",
+        "extracted": "If, at any time during the currency of this Agreement, TELKOM in its reasonable discretion based on prima facie evidence determines that SAP AFRICA has, in respect of this Agreement or any other contract or agreement to which they were or are Parties:\n16. 2. 1 acted dishonestly and/or in bad faith, and/or\n16. 2. 2 has made any intentional or negligent misrepresentation to TELKOM whether in any negotiations preceding the conclusion of, or in the execution of this or any other agreement between the Parties,\nthen TELKOM will be entitled by written notice to SAP Africa forthwith to cancel this Agreement."
+      },
+      {
+        "chunk_index": 5,
+        "clause_type": "confidentiality_clause",
+        "extracted": "TELKOM shall maintain a log of the number and location of all originals and copies of the SOFTWARE."
+      },
+      {
+        "chunk_index": 4,
+        "clause_type": "confidentiality_clause",
+        "extracted": "TELKOM shall invoice and recover from the licensee of such products the full license fee thereof and TELKOM shall pay to SAP Africa an amount equal to such license fee less the aforesaid referral fee."
+      },
+      {
+        "chunk_index": 7,
+        "clause_type": "liability_clause",
+        "extracted": "TELKOM shall provide SAP AFRICA with sufficient test time and support on TELKOM'S DESIGNATED UNIT to duplicate the problem, to verify that the defect is within or in respect of the SOFTWARE and to confirm that\nthe problem has been corrected, provided that SAP AFRICA shall do so in a manner and at a time that does not, in the circumstances, unreasonably disrupt,\nTELKOM'S day to day operations."
+      },
+      {
+        "chunk_index": 8,
+        "clause_type": "liability_clause",
+        "extracted": "12. 3 Subject to clause 11. 2, SAP AFRICA shall indemnify TELKOM against all claims, liabilities, and costs, including reasonable attorneys fees, reasonably incurred in the defence of any claim brought against TELKOM in the TERRITORY by a third party alleging that TELKOM'S USE of the SOFTWARE and DOCUMENTATION infringes a third party's copyright, patent, PROPRIETARY INFORMATION and/or trade secrets; provided that TELKOM promptly notifies SAP AFRICA in writing of any such claim and SAP AFRICA is permitted to control fully the defence and any settlement of such claim at SAP AFRICA'S own expense."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT": {
+    "contract_id": "CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT",
+    "summary": "Cyberian Outpost, Inc. has omitted portions of its agreement for confidential treatment by the Securities and Exchange Commission. The promotional agreement between CNET, Inc. and Cyberian Outpost, Inc., dated January 26, 1998, outlines how CNET will provide online and television promotions to Cyberian Outpost's website in exchange for compensation. Key obligations include providing a 15-second spot on TV.COM, advertising banners at the CNET sites, and Retail Promotions across the CNET sites. The agreement also specifies that if TV.COM is not aired during part of the term, two download.com banner ads will be run instead. Cyberian Outpost agrees to provide at least [XXXXXX] Retail Impressions within the first three months and [XXXXXX] Retail Impressions in subsequent months.",
+    "termination_clause": "If this Agreement is terminated during any of the three month periods referenced in Section 2.3.2, then the required number of Retail Impressions applicable thereunder to such three month period will be pro rated accordingly.",
+    "confidentiality_clause": "8.1 Indemnification by CNET.\n\n8.2 Indemnification by the Company.",
+    "liability_clause": "Not found",
+    "category": "Promotion",
+    "part": "Part_III",
+    "char_count": 21871,
+    "n_chunks": 4,
+    "summary_word_count": 116,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 1,
+        "clause_type": "termination_clause",
+        "extracted": "If this Agreement is terminated during any of the three month periods referenced in Section 2.3.2, then the required number of Retail Impressions applicable thereunder to such three month period will be pro rated accordingly."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "termination_clause",
+        "extracted": "Accordingly, the parties hereby agree as follows:"
+      },
+      {
+        "chunk_index": 2,
+        "clause_type": "confidentiality_clause",
+        "extracted": "8.1 Indemnification by CNET.\n\n8.2 Indemnification by the Company."
+      },
+      {
+        "chunk_index": 2,
+        "clause_type": "liability_clause",
+        "extracted": ""
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "AudibleInc_20001113_10-Q_EX-10.32_2599586_EX-10.32_Co-Branding Agreement_ Marketing Agreement_ Investment Distribution Agreement": {
+    "contract_id": "AudibleInc_20001113_10-Q_EX-10.32_2599586_EX-10.32_Co-Branding Agreement_ Marketing Agreement_ Investment Distribution Agreement",
+    "summary": "This contract is an agreement between Amazon.com Commerce Services, Inc. (ACSI) and Audible Inc., regarding co-branding, marketing, and distribution of products on ACSI's website. The key obligations include updating the list of competitors no more frequently than once per quarter by written notice, ensuring compliance with any contractual or legal obligations to ACSI Competitors, and defining terms such as Trademarks, Intellectual Property, and Derivative Works. Risks include potential conflicts with ACSI Competitors and the need for Company to comply with existing agreements without breaching them.",
+    "termination_clause": "Without limiting the generality of the foregoing, Company will ensure that such policies contain a waiver of subrogation against ACSI, name ACSI and its assignees as additional insureds.",
+    "confidentiality_clause": "Confidential Information does not include any information that (i) has become publicly available without breach of this Agreement, (ii) can be shown by documentation to have been known to the Receiving Party at the time of its receipt from the Disclosing Party or its Affiliates without a breach of confidentiality or other improper means, (iii) is received from a third party who did not acquire or disclose such information by a wrongful or tortious act or (iv) can be shown by documentation to have been independently developed by the Receiving Party without reference to any Confidential Information.",
+    "liability_clause": "Each of Company and ACSI will comply with the other Party's requests as to the use of the other Party's Trademarks and will avoid knowingly taking any action that diminishes the value of such Trademarks.",
+    "category": "Marketing",
+    "part": "Part_I",
+    "char_count": 69887,
+    "n_chunks": 12,
+    "summary_word_count": 85,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 9,
+        "clause_type": "termination_clause",
+        "extracted": "10.3 ACSI Termination."
+      },
+      {
+        "chunk_index": 10,
+        "clause_type": "termination_clause",
+        "extracted": "Without limiting the generality of the foregoing, Company will ensure that such policies contain a waiver of subrogation against ACSI, name ACSI and its assignees as additional insureds."
+      },
+      {
+        "chunk_index": 10,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Each Party will protect the Confidential Information of the other Party from misappropriation and unauthorized use or disclosure, and at a minimum, will take precautions at least as great as those taken to protect its own confidential information of a similar nature, but in no event with less than reasonable care."
+      },
+      {
+        "chunk_index": 2,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Confidential Information does not include any information that (i) has become publicly available without breach of this Agreement, (ii) can be shown by documentation to have been known to the Receiving Party at the time of its receipt from the Disclosing Party or its Affiliates without a breach of confidentiality or other improper means, (iii) is received from a third party who did not acquire or disclose such information by a wrongful or tortious act or (iv) can be shown by documentation to have been independently developed by the Receiving Party without reference to any Confidential Information."
+      },
+      {
+        "chunk_index": 7,
+        "clause_type": "liability_clause",
+        "extracted": "Each of Company and ACSI will comply with the other Party's requests as to the use of the other Party's Trademarks and will avoid knowingly taking any action that diminishes the value of such Trademarks."
+      },
+      {
+        "chunk_index": 8,
+        "clause_type": "liability_clause",
+        "extracted": "8.4 Third Party Infringement Claims."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement": {
+    "contract_id": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement",
+    "summary": "This contract is an agreement between i-Escrow, Inc., and 2TheMart.com, Inc., for co-branding and advertising. The purpose is to establish terms for using each party's content on a joint web-site accessible through Domain Name. Key obligations include providing Content (i.e., text, images) from both parties, launching the Co-Branded Site by June 21, 1999, and transferring information between parties via Information Transfer Mechanism. Notable risks involve ensuring compliance with t terms of service and avoiding unauthorized use or misrepresentation of Marks.",
+    "termination_clause": "In addition, 2TheMart may grant sublicenses to companies that 2TheMart has a business relationship with to the extent that 2TheMart Content is visible from such company's web-site through a link or other means.",
+    "confidentiality_clause": "Each party acknowledges that it has not entered into this Agreement in reliance upon any warranty or representation except those specifically set forth herein.",
+    "liability_clause": "In addition, 2TheMart shall indemnify i-Escrow against any and all claims, losses, costs and expenses, including reasonable attorneys' fees, which i-Escrow may incur as a result of claims in any form by third parties arising from 2TheMart Content.\n\nIn addition, i-Escrow shall indemnify 2TheMart against any and all claims, losses, costs and expenses, including reasonable attorneys' fees, which 2TheMart may incur as a result of claims in any form by third parties arising from i-Escrow Content and or the Services provided to Customers.\n\nThe foregoing obligations are conditioned on the Indemnified Party:\n(i) giving the Indemnifying Party notice of the relevant claim,\n(ii) cooperating with the Indemnifying Party, at the Indemnifying Party's expense, in the defense of such claim,\nand (iii) giving the Indemnifying Party the right to control the defense and settlement of any such claim, except that the Indemnifying Party shall not enter into any settlement that affects the Indemnified Party's rights or interest without the Indemnified Party's prior written approval.\n\nThe Indemnified Party shall have the right to participate in the defense at its expense.",
+    "category": "Co_Branding",
+    "part": "Part_I",
+    "char_count": 28368,
+    "n_chunks": 5,
+    "summary_word_count": 80,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 2,
+        "clause_type": "termination_clause",
+        "extracted": "In addition, 2TheMart may grant sublicenses to companies that 2TheMart has a business relationship with to the extent that 2TheMart Content is visible from such company's web-site through a link or other means."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "termination_clause",
+        "extracted": "Once approved, the parties shall use commercially reasonable efforts to diligently implement their respective obligations under the SOW."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Confidential Information."
+      },
+      {
+        "chunk_index": 2,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Each party acknowledges that it has not entered into this Agreement in reliance upon any warranty or representation except those specifically set forth herein."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "liability_clause",
+        "extracted": "In addition, 2TheMart shall indemnify i-Escrow against any and all claims, losses, costs and expenses, including reasonable attorneys' fees, which i-Escrow may incur as a result of claims in any form by third parties arising from 2TheMart Content.\n\nIn addition, i-Escrow shall indemnify 2TheMart against any and all claims, losses, costs and expenses, including reasonable attorneys' fees, which 2TheMart may incur as a result of claims in any form by third parties arising from i-Escrow Content and or the Services provided to Customers.\n\nThe foregoing obligations are conditioned on the Indemnified Party:\n(i) giving the Indemnifying Party notice of the relevant claim,\n(ii) cooperating with the Indemnifying Party, at the Indemnifying Party's expense, in the defense of such claim,\nand (iii) giving the Indemnifying Party the right to control the defense and settlement of any such claim, except that the Indemnifying Party shall not enter into any settlement that affects the Indemnified Party's rights or interest without the Indemnified Party's prior written approval.\n\nThe Indemnified Party shall have the right to participate in the defense at its expense."
+      },
+      {
+        "chunk_index": 2,
+        "clause_type": "liability_clause",
+        "extracted": "Each party acknowledges that it has not entered into this Agreement in reliance upon any warranty or representation except those specifically set forth herein."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "BANUESTRAFINANCIALCORP_09_08_2006-EX-10.16-AGENCY AGREEMENT": {
+    "contract_id": "BANUESTRAFINANCIALCORP_09_08_2006-EX-10.16-AGENCY AGREEMENT",
+    "summary": "**Summary:**\n\nEl Banco Financial Corporation proposes to engage a sales agent named \"Agent\" to assist with the sale of its common stock. The Offering involves the initial public offering (IPO) where El Banco Financial Corporation is selling shares to the public. The Company has prepared and filed a registration statement on Form SB-2 under the 1933 Act, including a prospectus, for the IPO. The Agent will work \"best efforts\" to promote the sale of these Shares. The Offering includes a Preliminary Prospectus, any Permitted Free Writing Prospectuses related to the offering, and any Blue Sky Applications necessary for compliance with securities laws in various jurisdictions.",
+    "termination_clause": "Not found",
+    "confidentiality_clause": "Not found",
+    "liability_clause": "The Agent will reimburse the Company and the Company Indemnitees for any legal or other expenses reasonably incurred (individually or collectively) by it or them in connection with investigating or defending any such loss, claim, damage, liability or action.",
+    "category": "Agency_Agreements",
+    "part": "Part_III",
+    "char_count": 44934,
+    "n_chunks": 7,
+    "summary_word_count": 105,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 5,
+        "clause_type": "termination_clause",
+        "extracted": "The Agent will reimburse the Company and the Company Indemnitees for any legal or other expenses reasonably incurred (individually or collectively) by it or them in connection with investigating or defending any such loss, claim, damage, liability or action."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "termination_clause",
+        "extracted": ""
+      },
+      {
+        "chunk_index": 5,
+        "clause_type": "liability_clause",
+        "extracted": "The Agent will reimburse the Company and the Company Indemnitees for any legal or other expenses reasonably incurred (individually or collectively) by it or them in connection with investigating or defending any such loss, claim, damage, liability or action."
+      },
+      {
+        "chunk_index": 4,
+        "clause_type": "liability_clause",
+        "extracted": "c."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT": {
+    "contract_id": "NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT",
+    "summary": "This contract establishes a distributor agreement between Ingram Micro and NETGEAR, outlining terms for hardware and software sales between the two companies. Key obligations include purchasing products listed on the Price List and reselling them within the specified Territory. Notable risks involve NETGEAR's right to sell or license Products directly, subject to certain marketing activities as outlined in an attached Marketing Plan.",
+    "termination_clause": "Either party may terminate this Agreement immediately if (i) the other party becomes insolvent, files or has filed against it a petition in bankruptcy, or ceases doing business; or (ii) the other party fails to cure a material breach of the Agreement within thirty (30) days after receipt of written notice of such breach from the party not in default.",
+    "confidentiality_clause": "Distributor shall maintain, and to adequately and thoroughly train on an on-going basis, a sufficient staff of qualified sales, marketing, technical and support personnel familiar with the applications, features, benefits, operation and configuration of the Products so as to effectively promote and support the Products and to assure end-user satisfaction.",
+    "liability_clause": "NETGEAR and Distributor agree to comply with the provisions of all applicable federal, state, county and local laws, ordinances, regulations and codes, domestic and foreign.",
+    "category": "Distributor",
+    "part": "Part_II",
+    "char_count": 38322,
+    "n_chunks": 6,
+    "summary_word_count": 62,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 4,
+        "clause_type": "termination_clause",
+        "extracted": "Either party may terminate this Agreement immediately if (i) the other party becomes insolvent, files or has filed against it a petition in bankruptcy, or ceases doing business; or (ii) the other party fails to cure a material breach of the Agreement within thirty (30) days after receipt of written notice of such breach from the party not in default."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "termination_clause",
+        "extracted": "Distributor may not cancel or reschedule any order, in whole or in part, less than five business days prior to the corresponding shipment date specified in NETGEAR's order acknowledgment."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Distributor shall maintain, and to adequately and thoroughly train on an on-going basis, a sufficient staff of qualified sales, marketing, technical and support personnel familiar with the applications, features, benefits, operation and configuration of the Products so as to effectively promote and support the Products and to assure end-user satisfaction."
+      },
+      {
+        "chunk_index": 4,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Distributor has no claim or right in the Trademarks, service marks, or trade names owned, used or claimed now or in the future by NETGEAR."
+      },
+      {
+        "chunk_index": 4,
+        "clause_type": "liability_clause",
+        "extracted": "LIMITATION OF LIABILITY"
+      },
+      {
+        "chunk_index": 5,
+        "clause_type": "liability_clause",
+        "extracted": "NETGEAR and Distributor agree to comply with the provisions of all applicable federal, state, county and local laws, ordinances, regulations and codes, domestic and foreign."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "ATENTOSA_07_06_2020-EX-99.1-JOINT FILING AGREEMENT": {
+    "contract_id": "ATENTOSA_07_06_2020-EX-99.1-JOINT FILING AGREEMENT",
+    "summary": "This contract is governed by Rule 13d-1(k)(1) of the Securities Exchange Act of 1934, as amended. It mandates joint filing of Schedule 13D statements and amendments without additional agreements being necessary. The parties involved are HPS Investment Partners, LLC, its affiliates, and their investment managers. This agreement permits execution in multiple counterparts and is not deemed an admission that these entities constitute a group or have acted together.",
+    "termination_clause": "Not found",
+    "confidentiality_clause": "Not found",
+    "liability_clause": "Not found",
+    "category": "Joint_Venture",
+    "part": "Part_III",
+    "char_count": 1366,
+    "n_chunks": 1,
+    "summary_word_count": 68,
+    "summary_retried": true,
+    "chunk_results": [],
+    "chunk_summaries": []
+  },
+  "FOUNDATIONMEDICINE,INC_02_02_2015-EX-10.2-Collaboration Agreement": {
+    "contract_id": "FOUNDATIONMEDICINE,INC_02_02_2015-EX-10.2-Collaboration Agreement",
+    "summary": "This Collaboration Agreement between Roche Basel, Roche US, FMI aims to foster a partnership focused on the advancement of diagnostic tests related to cancer genomics. Key obligations include sharing confidential information, conducting clinical studies, handling samples, and developing assays. Notable risks encompass regulatory compliance, data security breaches, and potential conflicts with existing patents. The agreement specifies specific terms for each party's participation in research and development activities within designated territories.",
+    "termination_clause": "In the event of termination of the Agreement in its entirety under 17.2.2, Roche shall pay to FMI all amounts under the foregoing subsections (a) through (d) (inclusive) as applicable, if such fees become payable.",
+    "confidentiality_clause": "During the Agreement Term and for [...***...] thereafter, a Receiving Party shall (i) treat Confidential Information provided by Disclosing Party as it would treat its own information of a similar nature, (ii) take all reasonable precautions not to disclose such Confidential Information\n\nto Third Parties, without the Disclosing Party's prior written consent, and (iii) not use such Confidential Information other than for fulfilling its obligations or exercising its rights under this Agreement.\n\nIf any Confidential Information is required to be disclosed by the Receiving Party or its Affiliates to comply with a court or administrative order, the Receiving Party or its Affiliates, prior to making such disclosure, shall furnish as much notice as is reasonable under the circumstances to the Disclosing Party to enable it to resist such disclosure.\n\nNotwithstanding the foregoing, each Party must comply with its obligations under Section 16.1 and 16.5.",
+    "liability_clause": "FMI will ensure that it does not collect any health or medical data, including Study Data, relating to individuals other than the categories of data specified in the protocol identified in the applicable Task Order and will collect and process Study Data for the sole purpose of the study identified in the applicable Task Order and not further process such data in any other manner.",
+    "category": "Collaboration",
+    "part": "Part_III",
+    "char_count": 167922,
+    "n_chunks": 28,
+    "summary_word_count": 70,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 23,
+        "clause_type": "termination_clause",
+        "extracted": "Roche shall have the right to terminate the Agreement in its entirety, or on a Work Stream basis, except for the ctDNA Work Stream, upon [...***...] prior written notice, without cause."
+      },
+      {
+        "chunk_index": 24,
+        "clause_type": "termination_clause",
+        "extracted": "In the event of termination of the Agreement in its entirety under 17.2.2, Roche shall pay to FMI all amounts under the foregoing subsections (a) through (d) (inclusive) as applicable, if such fees become payable."
+      },
+      {
+        "chunk_index": 22,
+        "clause_type": "confidentiality_clause",
+        "extracted": "During the Agreement Term and for [...***...] thereafter, a Receiving Party shall (i) treat Confidential Information provided by Disclosing Party as it would treat its own information of a similar nature, (ii) take all reasonable precautions not to disclose such Confidential Information\n\nto Third Parties, without the Disclosing Party's prior written consent, and (iii) not use such Confidential Information other than for fulfilling its obligations or exercising its rights under this Agreement.\n\nIf any Confidential Information is required to be disclosed by the Receiving Party or its Affiliates to comply with a court or administrative order, the Receiving Party or its Affiliates, prior to making such disclosure, shall furnish as much notice as is reasonable under the circumstances to the Disclosing Party to enable it to resist such disclosure.\n\nNotwithstanding the foregoing, each Party must comply with its obligations under Section 16.1 and 16.5."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "confidentiality_clause",
+        "extracted": "(i) was generally available to the public at the time of disclosure, or information that becomes available to the public after disclosure by the Disclosing Party other than through fault (whether by action or inaction) of the Receiving Party or its Affiliates,\n(ii) can be evidenced by written records to have been already known to the Receiving Party or its Affiliates prior to its receipt from the Disclosing Party,\n(iii) is obtained by the Receiving Party at any time lawfully from a Third Party under circumstances permitting its use or disclosure,\n(iv) is developed independently by the Receiving Party or its Affiliates as evidenced by written records other than through knowledge of Confidential Information, or\n(v) is approved in writing by the Disclosing Party for release by the Receiving Party."
+      },
+      {
+        "chunk_index": 21,
+        "clause_type": "liability_clause",
+        "extracted": "FMI will ensure that it does not collect any health or medical data, including Study Data, relating to individuals other than the categories of data specified in the protocol identified in the applicable Task Order and will collect and process Study Data for the sole purpose of the study identified in the applicable Task Order and not further process such data in any other manner."
+      },
+      {
+        "chunk_index": 22,
+        "clause_type": "liability_clause",
+        "extracted": "If any Confidential Information is required to be disclosed by the Receiving Party or its Affiliates to comply with a court or administrative order, the Receiving Party or its Affiliates, prior to making such disclosure, shall furnish as much notice as is reasonable under the circumstances to the Disclosing Party to enable it to resist such disclosure."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT": {
+    "contract_id": "Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT",
+    "summary": "This Non-competition and Non-solicitation Agreement is between Quaker Chemical Corporation, Gulf Houghton Lubricants Ltd., Gulf Oil International Limited, GOCL Corporation Limited, and Gulf Oil Lubricants India Ltd. It covers the non-compete and non-solicitation obligations of the Sellers to refrain from competing with or soliciting business from Buyer's subsidiaries for a period after the Effective Date. The key obligations include not engaging in similar activities within 12 months post-Effective Date and not soliciting any employees, customers, or clients of Buyer's subsidiaries. Notable risks involve potential breach of non-compete clauses by Sellers, which could lead to legal action against them.",
+    "termination_clause": "(c) Gulf Oil and Gulf India each agree during the Non-Compete Period not to acquire, directly or indirectly, control of any businesses involved in, or otherwise competing with, the business of the Combined Business from any entity on Schedule 1 hereto.\n(d) Each Seller agrees that for a period commencing on the Effective Date and ending three years after the Closing Date (the",
+    "confidentiality_clause": "WHEREAS, it is integral to Buyer's acquisition of the Company Business and a condition precedent to the closing of the transactions contemplated by the Purchase Agreement that the Sellers enter into this Agreement with Buyer to provide for the protection of the Combined Business's customer and vendor relationships, trade secrets, confidential information and other business operations.",
+    "liability_clause": "No provision of this Agreement is intended to confer any rights, benefits, remedies, obligations or liabilities\nhereunder upon any Person other than the parties and their respective successors and permitted assigns.",
+    "category": "Non_Compete_Non_Solicit",
+    "part": "Part_I",
+    "char_count": 22284,
+    "n_chunks": 4,
+    "summary_word_count": 98,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 1,
+        "clause_type": "termination_clause",
+        "extracted": "(c) Gulf Oil and Gulf India each agree during the Non-Compete Period not to acquire, directly or indirectly, control of any businesses involved in, or otherwise competing with, the business of the Combined Business from any entity on Schedule 1 hereto.\n(d) Each Seller agrees that for a period commencing on the Effective Date and ending three years after the Closing Date (the"
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "confidentiality_clause",
+        "extracted": "WHEREAS, it is integral to Buyer's acquisition of the Company Business and a condition precedent to the closing of the transactions contemplated by the Purchase Agreement that the Sellers enter into this Agreement with Buyer to provide for the protection of the Combined Business's customer and vendor relationships, trade secrets, confidential information and other business operations."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "liability_clause",
+        "extracted": "No provision of this Agreement is intended to confer any rights, benefits, remedies, obligations or liabilities\nhereunder upon any Person other than the parties and their respective successors and permitted assigns."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT": {
+    "contract_id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT",
+    "summary": "This Endorsement Agreement (\"Agreement\") is signed between KI Inc., SW, and Diplomat. It gives Diplomat permission to use KI's name, likeness, and endorsement for KI Eyewear products globally until January 30, 2000. The royalty rate is 5% of the net wholesale volume sold by Diplomat or its affiliates. If Kmart does not carry KI eyewear before the first licensing year, Diplomat can terminate the agreement as of that date.",
+    "termination_clause": "It is agreed that nothing contained in this Agreement shall be construed as an assignment or grant to Diplomat of any right, title or interest in or to KI's name, it being understood that all rights relating thereto are reserved by KI, Inc., except for the license hereunder to Diplomat of the right to use and utilize KI's name only as specifically and expressly provided in this Agreement.",
+    "confidentiality_clause": "Not found",
+    "liability_clause": "Diplomat hereby indemnifies KI, Inc. and KI, undertakes to defend KI, Inc. and KI against, and hold KI, Inc. and KI harmless from, any claims, suits, loss and damage (including attorneys' fees and costs) arising out of (a) any allegedly unauthorized use of any patent, process, idea, method, or device by Diplomat in connection with the products covered by this Agreement, (b) any alleged defects in the products covered by this Agreement, and (c) any other alleged action by Diplomat.",
+    "category": "Endorsement",
+    "part": "Part_III",
+    "char_count": 35023,
+    "n_chunks": 6,
+    "summary_word_count": 69,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 4,
+        "clause_type": "termination_clause",
+        "extracted": "Upon the termination or expiration of this license, all royalties on sales theretofore made shall become immediately due and payable and no minimum royalties shall be repayable."
+      },
+      {
+        "chunk_index": 3,
+        "clause_type": "termination_clause",
+        "extracted": "It is agreed that nothing contained in this Agreement shall be construed as an assignment or grant to Diplomat of any right, title or interest in or to KI's name, it being understood that all rights relating thereto are reserved by KI, Inc., except for the license hereunder to Diplomat of the right to use and utilize KI's name only as specifically and expressly provided in this Agreement."
+      },
+      {
+        "chunk_index": 2,
+        "clause_type": "liability_clause",
+        "extracted": "Diplomat hereby indemnifies KI, Inc. and KI, undertakes to defend KI, Inc. and KI against, and hold KI, Inc. and KI harmless from, any claims, suits, loss and damage (including attorneys' fees and costs) arising out of (a) any allegedly unauthorized use of any patent, process, idea, method, or device by Diplomat in connection with the products covered by this Agreement, (b) any alleged defects in the products covered by this Agreement, and (c) any other alleged action by Diplomat."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "liability_clause",
+        "extracted": "Travel expenses of KI in connection with all scheduled personal appearances under this Agreement, as well the travel expenses of KI's child, the child's nanny, KI's hair and make-up assistant of KI's choosing, and two (2) additional traveling companions of KI's choosing (collectively referred to as KI's 'entourage'), shall be provided by Diplomat."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "INTELLIGENTHIGHWAYSOLUTIONS,INC_01_18_2018-EX-10.1-Strategic Alliance Agreement": {
+    "contract_id": "INTELLIGENTHIGHWAYSOLUTIONS,INC_01_18_2018-EX-10.1-Strategic Alliance Agreement",
+    "summary": "This strategic alliance agreement between Bravatek Solutions, Inc. and Fazync LLC aims to establish a business relationship for promoting Fazync's capabilities in the government sector through Bravatek's technical expertise in security-related software and telecom services. Key obligations include:\n- Bravatek aspires to be a project-based sales lead finder for Fazync.\n- Fazync commits to listing Bravatek as an alliance partner, providing timely responses, promoting products, co-branded marketing materials, and participating in sales calls.\n- Both parties agree to jointly develop and implement a product solution strategy.",
+    "termination_clause": "4) Compensation",
+    "confidentiality_clause": "Confidentiality",
+    "liability_clause": "Bravatek shall indemnify Fazync, its directors, officers and employees, for any and all damages, costs, expenses, and other liabilities, including reasonable attorney's fees and court costs, incurred in connection with any third-party claim, action or proceeding arising from the negligence\nor intentional misconduct of Bravatek or breach of Bravatek of any of its obligations under this Agreement.",
+    "category": "Strategic_Alliance",
+    "part": "Part_III",
+    "char_count": 8082,
+    "n_chunks": 2,
+    "summary_word_count": 86,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 0,
+        "clause_type": "termination_clause",
+        "extracted": "4) Compensation"
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Confidentiality"
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "liability_clause",
+        "extracted": "Bravatek will receive a lead-finder fee, to be mutually discussed and finally decided by Fazync at the range of minimum of 10% to maximum of 20% of project revenue, with an exact fee to be depending upon the overall project sales margin and cost of development and delivery of each project, payable NET 30 days after each client payment on delivered products received at Fazync bank account."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "liability_clause",
+        "extracted": "Bravatek shall indemnify Fazync, its directors, officers and employees, for any and all damages, costs, expenses, and other liabilities, including reasonable attorney's fees and court costs, incurred in connection with any third-party claim, action or proceeding arising from the negligence\nor intentional misconduct of Bravatek or breach of Bravatek of any of its obligations under this Agreement."
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "MPLXLP_06_17_2015-EX-10.1-TRANSPORTATION SERVICES AGREEMENT": {
+    "contract_id": "MPLXLP_06_17_2015-EX-10.1-TRANSPORTATION SERVICES AGREEMENT",
+    "summary": "This transportation services agreement between Marathon Petroleum Company LP and Marathon Pipe Line LLC aims to enhance capacity on their common carrier pipeline systems through a joint venture initiative. The Pipeline will undergo phased improvements, with Shipper committing specific volumes of product transport under rates stipulated in Exhibit B. Risks include potential changes in applicable laws impacting the operation of the pipelines.",
+    "termination_clause": "If MPL is in compliance with the terms and conditions of this Agreement, and Shipper decides to terminate this Agreement after the Effective Date but prior to the commencement of transportation service on the Pipeline, Shipper shall notify MPL of its decision to terminate within one hundred and eighty (180) days of the Project's in-service date to allow MPL the opportunity to provide Shipper's unwanted capacity to other interested shippers as Unsubscribed Capacity as set forth in Section 3.8.",
+    "confidentiality_clause": "Confidential Information means any proprietary or confidential information that is competitively sensitive material or otherwise of value to a Party or its Affiliates and not generally known to the public, including trade secrets, scientific or technical information, design, invention, process, procedure, formula, improvements, product planning information, marketing strategies, financial information, information regarding operations, consumer and/or customer relationships, consumer and/or customer identities and profiles, sales estimates, business plans, and internal performance results relating to the past, present or future business activities of a Party or its Affiliates and the consumers, customers, clients and suppliers of any of the foregoing.",
+    "liability_clause": "MPL will ultimately file the joint tariff.",
+    "category": "Transportation",
+    "part": "Part_II",
+    "char_count": 53790,
+    "n_chunks": 9,
+    "summary_word_count": 62,
+    "summary_retried": true,
+    "chunk_results": [
+      {
+        "chunk_index": 6,
+        "clause_type": "termination_clause",
+        "extracted": "If MPL is in compliance with the terms and conditions of this Agreement, and Shipper decides to terminate this Agreement after the Effective Date but prior to the commencement of transportation service on the Pipeline, Shipper shall notify MPL of its decision to terminate within one hundred and eighty (180) days of the Project's in-service date to allow MPL the opportunity to provide Shipper's unwanted capacity to other interested shippers as Unsubscribed Capacity as set forth in Section 3.8."
+      },
+      {
+        "chunk_index": 5,
+        "clause_type": "termination_clause",
+        "extracted": "7 Confidentiality"
+      },
+      {
+        "chunk_index": 5,
+        "clause_type": "confidentiality_clause",
+        "extracted": "7 Confidentiality"
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Confidential Information means any proprietary or confidential information that is competitively sensitive material or otherwise of value to a Party or its Affiliates and not generally known to the public, including trade secrets, scientific or technical information, design, invention, process, procedure, formula, improvements, product planning information, marketing strategies, financial information, information regarding operations, consumer and/or customer relationships, consumer and/or customer identities and profiles, sales estimates, business plans, and internal performance results relating to the past, present or future business activities of a Party or its Affiliates and the consumers, customers, clients and suppliers of any of the foregoing."
+      },
+      {
+        "chunk_index": 1,
+        "clause_type": "liability_clause",
+        "extracted": "MPL will ultimately file the joint tariff."
+      },
+      {
+        "chunk_index": 0,
+        "clause_type": "liability_clause",
+        "extracted": "1. Definitions"
+      }
+    ],
+    "chunk_summaries": []
+  },
+  "PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement1": {
+    "contract_id": "PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement1",
+    "summary": "SeattleSoftwareDevelopers has entered into a contract to develop additional features for Pelican Delivers, including POS integration, Google Maps API, payment processing, ID verification, reporting, driver app improvements, and a front-facing web application for customers. The project involves developing 1 iOS application with PhP, MySQL, AWS Hosting, jQuery, and JavaScript language, as well as designing the website to be customer-friendly. SeattleSoftwareDevelopers estimates that this project will take around six months of development, testing, and deployment, with milestones scheduled for January 1st, February 1st, March 1st, and April 1st. The fee is $279,000, with payments due at the start of the project and upon completion of each milestone.",
+    "termination_clause": "Not found",
+    "confidentiality_clause": "Not found",
+    "liability_clause": "Not found",
+    "category": "Development",
+    "part": "Part_I",
+    "char_count": 15943,
+    "n_chunks": 3,
+    "summary_word_count": 106,
+    "summary_retried": false,
+    "chunk_results": [],
+    "chunk_summaries": []
+  },
+  "ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement": {
+    "contract_id": "ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement",
+    "summary": "The contract details the terms for outsourcing the development of Miaoli Royal Resort Hotel in Chang Chen-Bin Architects' office building. Key obligations include architectural plans, soil conservation, environmental impact assessments, land usage changes, landscaping designs, and miscellaneous works. Notable risks include potential delays from design consultations and revisions, as well as unforeseen environmental impacts that could hinder project progress.",
+    "termination_clause": "Not found",
+    "confidentiality_clause": "Not found",
+    "liability_clause": "Not found",
+    "category": "Outsourcing",
+    "part": "Part_I",
+    "char_count": 11670,
+    "n_chunks": 2,
+    "summary_word_count": 59,
+    "summary_retried": true,
+    "chunk_results": [],
+    "chunk_summaries": []
+  },
+  "GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement": {
+    "contract_id": "GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",
+    "summary": "This contract is a franchise agreement between Goosehead Insurance Agency LLC and the Franchisee. The purpose of the agreement is to establish terms under which the Franchisee will operate as an insurance agency using Goosehead's System, including proprietary systems, technologies, and intellectual property rights. Key obligations include payment of initial fees, commencing operations at a specified date, purchasing products/services from Goosehead, operating according to standards, and complying with confidentiality agreements. Notable risks include financial commitments, operational compliance, and potential termination clauses.",
+    "termination_clause": "If you fail or refuse to comply with all of the requirements of this Section 18.4, then we (or our designee) will have the right to enter upon the premises of the Franchised Business, without being guilty of trespass or any",
+    "confidentiality_clause": "Member acknowledges that, pursuant to the Franchise Agreement, and by virtue of his/her position with Franchisee, Member will receive valuable specialized training and confidential information, including, without limitation, information regarding the operational, sales, promotional, and marketing methods and techniques of Franchisor and the System.",
+    "liability_clause": "21.4 Indemnification.",
+    "category": "Franchise",
+    "part": "Part_III",
+    "char_count": 288385,
+    "n_chunks": 45,
+    "summary_word_count": 81,
+    "summary_retried": false,
+    "chunk_results": [
+      {
+        "chunk_index": 24,
+        "clause_type": "termination_clause",
+        "extracted": "If you fail or refuse to comply with all of the requirements of this Section 18.4, then we (or our designee) will have the right to enter upon the premises of the Franchised Business, without being guilty of trespass or any"
+      },
+      {
+        "chunk_index": 23,
+        "clause_type": "termination_clause",
+        "extracted": "With Notice and Opportunity to Cure."
+      },
+      {
+        "chunk_index": 12,
+        "clause_type": "confidentiality_clause",
+        "extracted": "You agree that you will never copy, duplicate, record, or otherwise reproduce those materials, in whole or in part, nor will you otherwise make those materials available to any unauthorized person."
+      },
+      {
+        "chunk_index": 33,
+        "clause_type": "confidentiality_clause",
+        "extracted": "Member acknowledges that, pursuant to the Franchise Agreement, and by virtue of his/her position with Franchisee, Member will receive valuable specialized training and confidential information, including, without limitation, information regarding the operational, sales, promotional, and marketing methods and techniques of Franchisor and the System."
+      },
+      {
+        "chunk_index": 18,
+        "clause_type": "liability_clause",
+        "extracted": ""
+      },
+      {
+        "chunk_index": 28,
+        "clause_type": "liability_clause",
+        "extracted": "21.4 Indemnification."
+      }
+    ],
+    "chunk_summaries": []
+  }
+}
