@@ -75,17 +75,44 @@ Streamlit Viewer"]
 ## Project structure
 
 ```
-cuad_pipeline/
-├── .env                      # Path configuration (edit before running)
+Legal-Contract-Intelligence-Pipeline/
+│
+│  Configuration
+├── .env                      # Your local paths and settings (copy from .env.example)
+├── .env.example              # Template — fill in your paths and commit this
 ├── config.py                 # Loads .env and exposes typed constants
-├── scanner.py                # Step 1a — folder scan, category normalisation & inventory
-├── sampler.py                # Step 1b — stratified 50-contract sampling + copy
-├── extractor.py              # Step 1c — PDF text extraction + quality check
-├── cleaner.py                # Step 1d — text normalization / cleaning
-├── pipeline.py               # Main orchestration script (run this)
-├── app.py                    # Streamlit viewer
+│
+│  Task 1 — Data loading, preprocessing, selection
+├── scanner.py                # Folder scan, category normalisation, inventory
+├── sampler.py                # Stratified 50-contract sampling + PDF copy
+├── extractor.py              # PDF text extraction (pdfplumber + PyMuPDF)
+├── cleaner.py                # Text normalization (unicode, headers, whitespace)
+├── pipeline.py               # Task 1 orchestrator — run this first
+│
+│  Task 2 — LLM extraction and summarization
+├── chunker.py                # Split cleaned_text into token-bounded chunks
+├── ollama_client.py          # HTTP wrapper for Ollama REST API
+├── extractor_llm.py          # Clause extraction: keyword ranking + LLM
+├── summarizer_llm.py         # Contract summarization via LLM
+├── pipeline_task2.py         # Task 2 orchestrator with checkpointing
+│
+│  Bonus features
+├── semantic_search.py        # Embed clauses + cosine similarity search
+├── fewshot_experiment.py     # Zero-shot vs few-shot extraction comparison
+│
+│  Viewer
+├── app.py                    # Streamlit app (4 tabs)
+│
+│  Outputs (generated — not committed to git)
+├── contracts_preprocessed.json   # Task 1 output
+├── task2_results.csv             # Task 2 main deliverable
+├── task2_results.json            # Task 2 as JSON
+├── task2_full_results.json       # Debug: per-chunk intermediates
+├── semantic_store.npz            # Clause embeddings
+│
+│  Documentation
 ├── requirements.txt
-└── README.md
+├── README.md
 ```
 
 ---
@@ -108,25 +135,35 @@ pip install -r requirements.txt
 
 ## Configuration
 
-Edit **`.env`** in this folder before running:
+Copy `.env.example` to `.env` and fill in your paths:
+
+```bash
+cp .env.example .env   # Linux/Mac
+copy .env.example .env  # Windows
+```
+
+Then edit `.env`:
 
 ```dotenv
-CUAD_BASE_PATH=D:\Uptitude\CUAD_v1      # root of the downloaded dataset
-SELECTED_OUTPUT_DIR=D:\Uptitude\CUAD_v1\selected_50
-PREPROCESSED_OUTPUT_PATH=D:\Uptitude\cuad_pipeline\contracts_preprocessed.json
+# Point this at wherever you downloaded and unzipped CUAD_v1
+CUAD_BASE_PATH=/your/path/to/CUAD_v1
+
+# These can stay relative to CUAD_BASE_PATH
+SELECTED_OUTPUT_DIR=/your/path/to/CUAD_v1/selected_50
+PREPROCESSED_OUTPUT_PATH=/your/path/to/Legal-Contract-Intelligence-Pipeline/contracts_preprocessed.json
+
 RANDOM_SEED=42
 SAMPLE_SIZE=50
 ```
 
-All paths in every module are derived from these settings — nothing is
-hardcoded elsewhere.
+All paths in every module are derived from `.env` — nothing is hardcoded in source files.
 
 ---
 
 ## Running the pipeline
 
 ```bash
-cd D:\Uptitude\cuad_pipeline
+cd Legal-Contract-Intelligence-Pipeline
 python pipeline.py
 ```
 
@@ -214,7 +251,7 @@ The original folder name is always preserved in `category_raw` for traceability.
 ## Launching the Streamlit viewer
 
 ```bash
-cd D:\Uptitude\cuad_pipeline
+cd Legal-Contract-Intelligence-Pipeline
 streamlit run app.py
 ```
 
@@ -359,7 +396,7 @@ CLAUSE_MERGE_STRATEGY=longest   # or: llm_merge (slower but higher quality)
 ## Running Task 2
 
 ```bash
-cd D:\Uptitude\cuad_pipeline
+cd Legal-Contract-Intelligence-Pipeline
 python pipeline_task2.py
 ```
 
