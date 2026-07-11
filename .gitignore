@@ -20,8 +20,6 @@ env/
 # .env.example IS tracked — it shows the structure without real paths
 
 # Large data files — dataset stays local, not pushed to GitHub
-*.json
-*.csv
 *.npz
 
 # Exceptions — small config/output files you DO want tracked
