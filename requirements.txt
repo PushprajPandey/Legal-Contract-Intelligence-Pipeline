@@ -1,0 +1,21 @@
+# ── Core data processing ──────────────────────────────────────────────────
+pandas==2.3.3
+numpy==2.2.6
+
+# ── PDF extraction (Task 1) ───────────────────────────────────────────────
+pdfplumber==0.11.10
+pymupdf==1.28.0
+
+# ── Environment / config loading ─────────────────────────────────────────
+python-dotenv==1.1.1
+
+# ── Task 2 — LLM pipeline ─────────────────────────────────────────────────
+requests==2.32.3          # Ollama REST API calls
+tqdm==4.67.1              # Progress bar for pipeline_task2.py
+tiktoken==0.9.0           # Token counting for chunker.py (cl100k_base encoding)
+
+# ── Streamlit viewer ──────────────────────────────────────────────────────
+# Pin to a version that is compatible with Pillow < 12.
+# pdfplumber 0.11.x pulls Pillow 12.x; the version mismatch is functionally
+# harmless since neither the pipeline nor the app uses image rendering.
+streamlit==1.45.0

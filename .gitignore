@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.env.local
+*.venv
+
+# Environment / secrets
+.env
+# .env.example IS tracked — it shows the structure without real paths
+
+# Large data files — dataset stays local, not pushed to GitHub
+*.json
+*.csv
+*.npz
+
+# Exceptions — small config/output files you DO want tracked
+!requirements.txt
+!README.md
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ollama model files (multi-GB, not for GitHub)
+*.gguf
+*.bin
+*.ggml
