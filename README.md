@@ -108,7 +108,6 @@ Legal-Contract-Intelligence-Pipeline/
 ├── task2_results.csv             # Task 2 main deliverable
 ├── task2_results.json            # Task 2 as JSON
 ├── task2_full_results.json       # Debug: per-chunk intermediates
-├── semantic_store.npz            # Clause embeddings
 │
 │  Documentation
 ├── requirements.txt
